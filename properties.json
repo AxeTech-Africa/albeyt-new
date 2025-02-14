@@ -1,0 +1,170 @@
+[
+    {
+        "title": "Pritz Apartment",
+        "location": "Riverside",
+        "price": 90500,
+        "bedrooms": 1,
+        "status": "Furnished",
+        "image": "img/product-3/1.jpg"
+    },
+    {
+        "title": "Riverdale Apartment",
+        "location": "Riverside",
+        "price": 100000,
+        "bedrooms": 1,
+        "status": "Unfurnished",
+        "image": "img/product-3/2.jpg"
+    },
+    {
+        "title": "Kings Apartment",
+        "location": "South B",
+        "price": 70000,
+        "bedrooms": 2,
+        "status": "Completed",
+        "image": "img/product-3/3.jpg"
+    },
+    {
+        "title": "Skyline Towers",
+        "location": "Westlands",
+        "price": 120000,
+        "bedrooms": 3,
+        "status": "Construction ongoing",
+        "image": "img/product-3/4.jpg"
+    },
+    {
+        "title": "Greenwood Residency",
+        "location": "Kilimani",
+        "price": 150000,
+        "bedrooms": 4,
+        "status": "Furnished",
+        "image": "img/product-3/5.jpg"
+    },
+    {
+        "title": "Prestige Villa",
+        "location": "Kileleshwa",
+        "price": 200000,
+        "bedrooms": 5,
+        "status": "Unfurnished",
+        "image": "img/product-3/6.jpg"
+    },
+    {
+        "title": "Lush Haven",
+        "location": "Karen",
+        "price": 180000,
+        "bedrooms": 4,
+        "status": "Completed",
+        "image": "img/product-3/7.jpg"
+    },
+    {
+        "title": "Regency Suites",
+        "location": "Parklands",
+        "price": 95000,
+        "bedrooms": 2,
+        "status": "Furnished",
+        "image": "img/product-3/8.jpg"
+    },
+    {
+        "title": "Elite Court",
+        "location": "Ngara",
+        "price": 85000,
+        "bedrooms": 1,
+        "status": "Unfurnished",
+        "image": "img/product-3/9.jpg"
+    },
+    {
+        "title": "Summit Heights",
+        "location": "Pangani",
+        "price": 110000,
+        "bedrooms": 3,
+        "status": "Construction ongoing",
+        "image": "img/product-3/10.jpg"
+    },
+    {
+        "title": "Royal Crest",
+        "location": "Lavington",
+        "price": 175000,
+        "bedrooms": 4,
+        "status": "Completed",
+        "image": "img/product-3/8.jpg"
+    },
+    {
+        "title": "Metro Suites",
+        "location": "Eastleigh",
+        "price": 95000,
+        "bedrooms": 2,
+        "status": "Furnished",
+        "image": "img/product-3/8.jpg"
+    },
+    {
+        "title": "Skyview Residency",
+        "location": "South C",
+        "price": 105000,
+        "bedrooms": 3,
+        "status": "Unfurnished",
+        "image": "img/product-3/8.jpg"
+    },
+    {
+        "title": "Serene Homes",
+        "location": "Runda",
+        "price": 190000,
+        "bedrooms": 5,
+        "status": "Completed",
+        "image": "img/product-3/8.jpg"
+    },
+    {
+        "title": "Horizon Villas",
+        "location": "Karen",
+        "price": 210000,
+        "bedrooms": 5,
+        "status": "Furnished",
+        "image": "img/product-3/8.jpg"
+    },
+    {
+        "title": "Oakwood Apartments",
+        "location": "South B",
+        "price": 95000,
+        "bedrooms": 2,
+        "status": "Construction ongoing",
+        "image": "img/product-3/8.jpg"
+    },
+    {
+        "title": "Urban Lofts",
+        "location": "Westlands",
+        "price": 120000,
+        "bedrooms": 3,
+        "status": "Completed",
+        "image": "img/product-3/8.jpg"
+    },
+    {
+        "title": "Harbor Residency",
+        "location": "Ngara",
+        "price": 90000,
+        "bedrooms": 1,
+        "status": "Furnished",
+        "image": "img/product-3/8.jpg"
+    },
+    {
+        "title": "Cedar Heights",
+        "location": "Parklands",
+        "price": 125000,
+        "bedrooms": 4,
+        "status": "Unfurnished",
+        "image": "img/product-3/8.jpg"
+    },
+    {
+        "title": "Tranquil Haven",
+        "location": "Kileleshwa",
+        "price": 185000,
+        "bedrooms": 5,
+        "status": "Completed",
+        "image": "img/product-3/8.jpg"
+    },
+    
+    {"title": "Elite Studios",
+    "location": "Westlands",
+    "price": 55000,
+    "bedrooms": "studio",
+    "status": "Unfurnished",
+    "image": "img/product-3/8.jpg"
+  }
+]
