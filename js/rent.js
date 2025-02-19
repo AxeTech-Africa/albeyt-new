@@ -1,7 +1,7 @@
-// script for sale start
+ // script for sale start
 
 
-document.addEventListener("DOMContentLoaded", function () {
+ document.addEventListener("DOMContentLoaded", function () {
     const propertiesContainer = document.querySelector(".ltn__product-tab-content-inner .row");
     const paginationContainer = document.querySelector(".ltn__pagination ul");
     const itemsPerPage = 6;
@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <div class="col-lg-12">
                     <div class="ltn__product-item ltn__product-item-4 ltn__product-item-5">
                         <div class="product-img">
-                            <a href="product-details.html"><img src="${property.image}" alt="#"></a>
+                            <a href="property-details.html?id=${property.id}&type=rent""><img src="${property.image}" alt="#"></a>
                         </div>
                         <div class="product-info">
                             <div class="product-badge-price">
@@ -46,7 +46,8 @@ document.addEventListener("DOMContentLoaded", function () {
                                     <span>Ksh${property.price.toLocaleString()}<label>/Month</label></span>
                                 </div>
                             </div>
-                            <h2 class="product-title"><a href="product-details.html">${property.title}</a></h2>
+                            <h2 class="product-title"><a href="property-details.html?id=${property.id}&type=rent">${property.title}</a></h2>
+
                             <div class="product-img-location">
                                 <ul>
                                     <li>
@@ -62,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             <div class="product-hover-action">
                                 <ul>
                                     <li>
-                                        <a href="product-details.html" title="Product Details">
+                            <a href="property-details.html?id=${property.id}&type=rent"title="Product Details">
                                             <i class="flaticon-add"></i>
                                         </a>
                                     </li>
@@ -103,13 +104,16 @@ document.addEventListener("DOMContentLoaded", function () {
         let priceFilter = parseInt(document.getElementById("priceFilter").value) || null;
         let bedroomFilter = document.getElementById("bedroomFilter").value;
         let statusFilter = document.getElementById("statusFilter").value;
+        let houseTypeFilter = document.getElementById("houseTypeFilter").value;
+        
 
         filteredProperties = properties.filter(property => {
             return (
                 (locationFilter === "all" || property.location === locationFilter) &&
                 (!priceFilter || property.price <= priceFilter) &&
                 (bedroomFilter === "all" || property.bedrooms.toString() === bedroomFilter) &&
-                (statusFilter === "all" || property.status === statusFilter)
+                (statusFilter === "all" || property.status === statusFilter) &&
+                (houseTypeFilter === "all" || property.houseType === houseTypeFilter)
             );
         });
 

@@ -2024,7 +2024,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <div class="col-lg-12">
                     <div class="ltn__product-item ltn__product-item-4 ltn__product-item-5">
                         <div class="product-img">
-                            <a href="product-details.html"><img src="${property.image}" alt="#"></a>
+                            <a href="property-details.html"><img src="${property.image}" alt="#"></a>
                         </div>
                         <div class="product-info">
                             <div class="product-badge-price">
@@ -2034,10 +2034,12 @@ document.addEventListener("DOMContentLoaded", function () {
                                     </ul>
                                 </div>
                                 <div class="product-price">
-                                    <span>Ksh${property.price.toLocaleString()}<label>/Month</label></span>
+                                    <span><label>price</label></span>      
+                                    <span>$${property.price.toLocaleString()}</span>
                                 </div>
                             </div>
-                            <h2 class="product-title"><a href="product-details.html">${property.title}</a></h2>
+                            <h2 class="product-title"><a href="property-details.html?id=${property.id}">${property.title}</a></h2>
+
                             <div class="product-img-location">
                                 <ul>
                                     <li>
@@ -2053,7 +2055,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             <div class="product-hover-action">
                                 <ul>
                                     <li>
-                                        <a href="product-details.html" title="Product Details">
+                            <a href="property-details.html?id=${property.id}" title="Product Details">
                                             <i class="flaticon-add"></i>
                                         </a>
                                     </li>
@@ -2094,13 +2096,15 @@ document.addEventListener("DOMContentLoaded", function () {
         let priceFilter = parseInt(document.getElementById("priceFilter").value) || null;
         let bedroomFilter = document.getElementById("bedroomFilter").value;
         let statusFilter = document.getElementById("statusFilter").value;
+        let houseTypeFilter = document.getElementById("houseTypeFilter").value;
 
         filteredProperties = properties.filter(property => {
             return (
                 (locationFilter === "all" || property.location === locationFilter) &&
                 (!priceFilter || property.price <= priceFilter) &&
                 (bedroomFilter === "all" || property.bedrooms.toString() === bedroomFilter) &&
-                (statusFilter === "all" || property.status === statusFilter)
+                (statusFilter === "all" || property.status === statusFilter) &&
+                (houseTypeFilter === "all" || property.houseType === houseTypeFilter)
             );
         });
 

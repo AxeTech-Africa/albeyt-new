@@ -14650,13 +14650,13 @@ input.cart-plus-minus-box {
   color: #b48b62 !important; /* Gold hover effect */
 }
 
-.site-logo-wrap {
-  display: inline-block; /* Keep it inline */
-  padding: 5px 10px; /* Adjust padding */
-  border: 2px solid white; /* White border */
-  background-color:#0b2c3d; /* Black background */
-  text-align: center; /* Center the text */
-}
+/* .site-logo-wrap {
+  display: inline-block; 
+  padding: 5px 10px; 
+  border: 2px solid white; 
+  background-color:#0b2c3d; 
+  text-align: center; 
+} */
 
 
 

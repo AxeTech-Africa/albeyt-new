@@ -1,170 +1,781 @@
 [
     {
-        "title": "Pritz Apartment",
+        "id": "1",
+        "title": "Diamond Manor Apartment",
         "location": "Riverside",
-        "price": 90500,
-        "bedrooms": 1,
-        "status": "Furnished",
-        "image": "img/product-3/1.jpg"
-    },
-    {
-        "title": "Riverdale Apartment",
-        "location": "Riverside",
-        "price": 100000,
-        "bedrooms": 1,
-        "status": "Unfurnished",
-        "image": "img/product-3/2.jpg"
-    },
-    {
-        "title": "Kings Apartment",
-        "location": "South B",
-        "price": 70000,
-        "bedrooms": 2,
-        "status": "Completed",
-        "image": "img/product-3/3.jpg"
-    },
-    {
-        "title": "Skyline Towers",
-        "location": "Westlands",
-        "price": 120000,
-        "bedrooms": 3,
-        "status": "Construction ongoing",
-        "image": "img/product-3/4.jpg"
-    },
-    {
-        "title": "Greenwood Residency",
-        "location": "Kilimani",
-        "price": 150000,
-        "bedrooms": 4,
-        "status": "Furnished",
-        "image": "img/product-3/5.jpg"
-    },
-    {
-        "title": "Prestige Villa",
-        "location": "Kileleshwa",
-        "price": 200000,
-        "bedrooms": 5,
-        "status": "Unfurnished",
-        "image": "img/product-3/6.jpg"
-    },
-    {
-        "title": "Lush Haven",
-        "location": "Karen",
-        "price": 180000,
-        "bedrooms": 4,
-        "status": "Completed",
-        "image": "img/product-3/7.jpg"
-    },
-    {
-        "title": "Regency Suites",
-        "location": "Parklands",
-        "price": 95000,
+        "price": "24000",
         "bedrooms": 2,
         "status": "Furnished",
-        "image": "img/product-3/8.jpg"
+        "image": "img/product-3/2.jpg",
+        "houseType": "Condo",
+
+        "category": "Featured, For Sale",
+        "date": "February 17, 2025",
+        "description": "A modern and spacious apartment situated in a prime location in Nairobi, Kenya.",
+        "features": {
+            "property_id": "HZ29",
+            "home_area": "120 sqm",
+            "rooms": 7,
+            "baths": 2,
+            "year_built": 1992,
+            "lot_area": "200 sqm",
+            "lot_dimensions": "10m x 20m",
+            "bedrooms": "studio",
+            "price": "24000",
+            "property_status": "Condo"
+        },
+        "amenities": ["Air Conditioning", "Gym", "Swimming Pool", "WiFi", "Recreation Area", "Microwave", "Refrigerator", "24x7 Security"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/15.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/14.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
     },
     {
-        "title": "Elite Court",
-        "location": "Ngara",
-        "price": 85000,
-        "bedrooms": 1,
-        "status": "Unfurnished",
-        "image": "img/product-3/9.jpg"
-    },
-    {
-        "title": "Summit Heights",
-        "location": "Pangani",
-        "price": 110000,
-        "bedrooms": 3,
-        "status": "Construction ongoing",
-        "image": "img/product-3/10.jpg"
-    },
-    {
-        "title": "Royal Crest",
+        "id": "2",
+        "title": "Lavington Heights",
         "location": "Lavington",
-        "price": 175000,
+        "price": "50000000",
         "bedrooms": 4,
-        "status": "Completed",
-        "image": "img/product-3/8.jpg"
-    },
-    {
-        "title": "Metro Suites",
-        "location": "Eastleigh",
-        "price": 95000,
-        "bedrooms": 2,
         "status": "Furnished",
-        "image": "img/product-3/8.jpg"
+        "image": "img/product-3/2.jpg",
+        "houseType": "Apartment",
+
+        "category": "Featured, For Sale",
+        "date": "February 16, 2025",
+        "description": "A luxurious 4-bedroom house with stunning views and modern amenities.",
+        "features": {
+            "property_id": "HZ30",
+            "home_area": "400 sqm",
+            "rooms": 10,
+            "baths": 4,
+            "year_built": 2015,
+            "lot_area": "600 sqm",
+            "lot_dimensions": "15m x 25m",
+            "bedrooms": "4",
+            "price": "5,000,000 KES",
+            "property_status": "Apartment"
+        },
+        "amenities": ["Air Conditioning", "Gym", "Swimming Pool", "WiFi", "Microwave", "Refrigerator", "24x7 Security"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/12.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/13.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/14.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/34.jpg"
+        ]
     },
     {
-        "title": "Skyview Residency",
-        "location": "South C",
-        "price": 105000,
+        "id": "3",
+        "title": "Riverside Court",
+        "location": "Riverside",
+        "price": "18000000",
         "bedrooms": 3,
         "status": "Unfurnished",
-        "image": "img/product-3/8.jpg"
+       "image": "img/product-3/2.jpg",
+       "houseType": "Flat",
+
+        "category": "For Sale",
+        "date": "February 14, 2025",
+        "description": "A 3-bedroom apartment offering a perfect blend of comfort and convenience.",
+        "features": {
+            "property_id": "HZ31",
+            "home_area": "150 sqm",
+            "rooms": 8,
+            "baths": 3,
+            "year_built": 2010,
+            "lot_area": "180 sqm",
+            "lot_dimensions": "12m x 15m",
+            "bedrooms": "3",
+            "price": "1,800,000 KES",
+            "property_status": "Flat"
+        },
+        "amenities": ["WiFi", "24x7 Security", "Refrigerator", "Microwave"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/10.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/11.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/12.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/34.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
     },
     {
-        "title": "Serene Homes",
-        "location": "Runda",
-        "price": 190000,
-        "bedrooms": 5,
-        "status": "Completed",
-        "image": "img/product-3/8.jpg"
-    },
-    {
-        "title": "Horizon Villas",
-        "location": "Karen",
-        "price": 210000,
-        "bedrooms": 5,
-        "status": "Furnished",
-        "image": "img/product-3/8.jpg"
-    },
-    {
-        "title": "Oakwood Apartments",
-        "location": "South B",
-        "price": 95000,
-        "bedrooms": 2,
-        "status": "Construction ongoing",
-        "image": "img/product-3/8.jpg"
-    },
-    {
-        "title": "Urban Lofts",
-        "location": "Westlands",
-        "price": 120000,
-        "bedrooms": 3,
-        "status": "Completed",
-        "image": "img/product-3/8.jpg"
-    },
-    {
-        "title": "Harbor Residency",
-        "location": "Ngara",
-        "price": 90000,
-        "bedrooms": 1,
-        "status": "Furnished",
-        "image": "img/product-3/8.jpg"
-    },
-    {
-        "title": "Cedar Heights",
+        "id": "4",
+        "title": "Parklands Villa",
         "location": "Parklands",
-        "price": 125000,
-        "bedrooms": 4,
-        "status": "Unfurnished",
-        "image": "img/product-3/8.jpg"
+        "price": "35000000",
+        "bedrooms": 5,
+        "status": "Furnished",
+        "image": "img/product-3/2.jpg",
+        "houseType": "Villa",
+
+        "category": "For Sale",
+        "date": "February 12, 2025",
+        "description": "A luxurious villa offering ample living space and a large backyard.",
+        "features": {
+            "property_id": "HZ32",
+            "home_area": "600 sqm",
+            "rooms": 12,
+            "baths": 6,
+            "year_built": 2018,
+            "lot_area": "1000 sqm",
+            "lot_dimensions": "20m x 50m",
+            "bedrooms": "5",
+            "price": "3,500,000 KES",
+            "property_status": "Villa"
+        },
+        "amenities": ["Gym", "Swimming Pool", "Air Conditioning", "24x7 Security", "Refrigerator"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/8.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/9.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/10.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/34.jpg"
+        ]
     },
     {
-        "title": "Tranquil Haven",
-        "location": "Kileleshwa",
-        "price": 185000,
+        "id": "5",
+        "title": "Ngara Studio Apartment",
+        "location": "Ngara",
+        "price": "8000000",
+        "bedrooms": "studio",
+        "status": "Completed",
+        "image": "img/product-3/2.jpg",
+        "houseType": "Apartment",
+
+        "category": "For Sale",
+        "date": "February 10, 2025",
+        "description": "Compact studio apartment perfect for individuals or couples.",
+        "features": {
+            "property_id": "HZ33",
+            "home_area": "40 sqm",
+            "rooms": 2,
+            "baths": 1,
+            "year_built": 2020,
+            "lot_area": "50 sqm",
+            "lot_dimensions": "5m x 10m",
+            "bedrooms": "studio",
+            "price": "800,000 KES",
+            "property_status": "Apartment"
+        },
+        "amenities": ["WiFi", "Refrigerator", "Microwave"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/7.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/6.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/5.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/34.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Westlands Luxury Homes",
+        "location": "Westlands",
+        "price": "75000000",
+        "bedrooms": 5,
+        "status": "Construction ongoing",
+        "image": "img/product-3/2.jpg",
+        "houseType": "House",
+
+        "category": "For Sale",
+        "date": "February 7, 2025",
+        "description": "Luxury homes with breathtaking views in one of Nairobi's most desirable areas.",
+        "features": {
+            "property_id": "HZ34",
+            "home_area": "700 sqm",
+            "rooms": 15,
+            "baths": 7,
+            "year_built": 2017,
+            "lot_area": "1200 sqm",
+            "lot_dimensions": "25m x 30m",
+            "bedrooms": "5",
+            "price": "7,500,000 KES",
+            "property_status": "House"
+        },
+        "amenities": ["Gym", "WiFi", "Refrigerator", "Air Conditioning", "24x7 Security"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/5.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/6.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/7.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+          "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Kilimani Villa",
+        "location": "Kilimani",
+        "price": "65000000",
+        "bedrooms": 4,
+        "status": "Unfurnished",
+        "image": "img/product-3/2.jpg",
+        "houseType": "Villa",
+
+        "category": "For Sale",
+        "date": "February 5, 2025",
+        "description": "Modern villa with spacious living areas and located in a prime area of Kilimani.",
+        "features": {
+            "property_id": "HZ35",
+            "home_area": "500 sqm",
+            "rooms": 11,
+            "baths": 5,
+            "year_built": 2019,
+            "lot_area": "850 sqm",
+            "lot_dimensions": "20m x 35m",
+            "bedrooms": "4",
+            "price": "6,500,000 KES",
+            "property_status": "Villa"
+        },
+        "amenities": ["WiFi", "Air Conditioning", "Refrigerator", "Swimming Pool", "Gym", "24x7 Security"],
+        "gallery": [
+            "img/gallery/black-wall-of-building-with-opened-windows-2023-11-27-05-24-38-utc.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/4.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/5.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    },
+    {
+        "id": "8",
+        "title": "South B Studio",
+        "location": "South B",
+        "price": "6000000",
+        "bedrooms": "studio",
+        "status": "Completed",
+        "image": "img/product-3/2.jpg",
+        "houseType": "Flat",
+        "category": "For Sale",
+        "date": "February 1, 2025",
+        "description": "Cozy studio apartment perfect for those looking for a smaller, budget-friendly option.",
+        "features": {
+            "property_id": "HZ36",
+            "home_area": "30 sqm",
+            "rooms": 2,
+            "baths": 1,
+            "year_built": 2023,
+            "lot_area": "40 sqm",
+            "lot_dimensions": "5m x 8m",
+            "bedrooms": "studio",
+            "price": "600,000 KES",
+            "property_status": "Flat"
+        },
+        "amenities": ["WiFi", "Microwave", "Refrigerator"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/1.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/2.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/3.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Road Mansion",
+        "location": "Kilimani",
+        "price": "95000000",
+        "bedrooms": 6,
+        "status": "Furnished",
+        "image": "img/product-3/2.jpg",
+        "houseType": "Duplex",
+
+        "category": "For Sale",
+        "date": "January 28, 2025",
+        "description": "Grand mansion located in Ngong Road with high-end features and expansive grounds.",
+        "features": {
+            "property_id": "HZ37",
+            "home_area": "1200 sqm",
+            "rooms": 20,
+            "baths": 10,
+            "year_built": 2015,
+            "lot_area": "1500 sqm",
+            "lot_dimensions": "30m x 50m",
+            "bedrooms": "6",
+            "price": "9,500,000 KES",
+            "property_status": "Duplex"
+        },
+        "amenities": ["Gym", "Swimming Pool", "WiFi", "Air Conditioning", "Refrigerator"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/4.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/5.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/6.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    },
+    {
+        "id": "10",
+        "title": "The Garden Residence",
+        "location": "Eastleigh",
+        "price": "105000000",
+        "bedrooms": 5,
+        "status": "Unfurnished",
+        "image": "img/product-3/2.jpg",
+        "houseType": "TownHouse",
+
+        "category": "For Sale",
+        "date": "January 25, 2025",
+        "description": "Expansive garden residence with luxurious interiors, located in Karen, Nairobi.",
+        "features": {
+            "property_id": "HZ38",
+            "home_area": "800 sqm",
+            "rooms": 18,
+            "baths": 9,
+            "year_built": 2017,
+            "lot_area": "2000 sqm",
+            "lot_dimensions": "40m x 50m",
+            "bedrooms": "5",
+            "price": "10,500,000 KES",
+            "property_status": "TownHouse"
+        },
+        "amenities": ["Gym", "Swimming Pool", "WiFi", "Refrigerator", "Air Conditioning"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/6.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/7.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/8.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    },
+    {
+        "id": "11",
+        "title": "Lavington Lux Residence",
+        "location": "Lavington",
+        "price": "35000000",
+        "bedrooms": 4,
+        "status": "Furnished",
+        "image": "img/product-3/2.jpg",
+        "category": "For Sale",
+        "date": "January 20, 2025",
+        "description": "Elegant 4-bedroom house with a spacious garden in the heart of Lavington.",
+        "features": {
+            "property_id": "HZ39",
+            "home_area": "350 sqm",
+            "rooms": 10,
+            "baths": 4,
+            "year_built": 2018,
+            "lot_area": "500 sqm",
+            "lot_dimensions": "20m x 25m",
+            "bedrooms": "4",
+            "price": "35,000,000 KES",
+            "property_status": "For Sale"
+        },
+        "amenities": ["Gym", "WiFi", "Microwave", "Refrigerator", "24x7 Security"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/9.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/10.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/11.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    },
+    {
+        "id": "12",
+        "title": " Serenity Villa",
+        "location": "South C",
+        "price": "12000000",
+        "bedrooms": 3,
+        "status": "Unfurnished",
+        "image": "img/product-3/2.jpg",
+        "category": "For Sale",
+        "date": "January 18, 2025",
+        "description": "Spacious 3-bedroom villa with serene surroundings, located in Kilimani.",
+        "features": {
+            "property_id": "HZ40",
+            "home_area": "250 sqm",
+            "rooms": 7,
+            "baths": 3,
+            "year_built": 2020,
+            "lot_area": "350 sqm",
+            "lot_dimensions": "15m x 25m",
+            "bedrooms": "3",
+            "price": "12,000,000 KES",
+            "property_status": "For Sale"
+        },
+        "amenities": ["WiFi", "Microwave", "Refrigerator", "Air Conditioning"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/12.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/13.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/14.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    },
+    {
+        "id": "13",
+        "title": "Westlands Skyline",
+        "location": "Westlands",
+        "price": "75000000",
         "bedrooms": 5,
         "status": "Completed",
-        "image": "img/product-3/8.jpg"
+        "image": "img/product-3/2.jpg",
+        "category": "For Sale",
+        "date": "January 15, 2025",
+        "description": "Stunning 5-bedroom penthouse with panoramic views of Nairobi skyline.",
+        "features": {
+            "property_id": "HZ41",
+            "home_area": "500 sqm",
+            "rooms": 15,
+            "baths": 6,
+            "year_built": 2016,
+            "lot_area": "700 sqm",
+            "lot_dimensions": "30m x 40m",
+            "bedrooms": "5",
+            "price": "75,000,000 KES",
+            "property_status": "For Sale"
+        },
+        "amenities": ["WiFi", "Swimming Pool", "Gym", "Refrigerator", "Air Conditioning"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/15.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/17.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
     },
-    
-    {"title": "Elite Studios",
-    "location": "Westlands",
-    "price": 55000,
-    "bedrooms": "studio",
-    "status": "Unfurnished",
-    "image": "img/product-3/8.jpg"
-  }
+    {
+        "id": "14",
+        "title": "Pangani Garden House",
+        "location": "Pangani",
+        "price": "25000000",
+        "bedrooms": 4,
+        "status": "Furnished",
+        "image": "img/product-3/2.jpg",
+        "category": "For Sale",
+        "date": "January 12, 2025",
+        "description": "Charming 4-bedroom house in Pangani with a beautiful garden and great location.",
+        "features": {
+            "property_id": "HZ42",
+            "home_area": "320 sqm",
+            "rooms": 8,
+            "baths": 3,
+            "year_built": 2019,
+            "lot_area": "450 sqm",
+            "lot_dimensions": "20m x 22m",
+            "bedrooms": "4",
+            "price": "25,000,000 KES",
+            "property_status": "For Sale"
+        },
+        "amenities": ["Gym", "WiFi", "Refrigerator", "24x7 Security", "Swimming Pool"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/18.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/19.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/20.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    },
+    {
+        "id": "15",
+        "title": "Ngara Urban Oasis",
+        "location": "Ngara",
+        "price": "20000000",
+        "bedrooms": 3,
+        "status": "Unfurnished",
+        "image": "img/product-3/2.jpg",
+        "category": "For Sale",
+        "date": "January 10, 2025",
+        "description": "Modern 3-bedroom apartment in Ngara with easy access to public transport.",
+        "features": {
+            "property_id": "HZ43",
+            "home_area": "180 sqm",
+            "rooms": 6,
+            "baths": 2,
+            "year_built": 2021,
+            "lot_area": "300 sqm",
+            "lot_dimensions": "12m x 25m",
+            "bedrooms": "3",
+            "price": "20,000,000 KES",
+            "property_status": "For Sale"
+        },
+        "amenities": ["WiFi", "Refrigerator", "Air Conditioning", "24x7 Security"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/21.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/22.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/23.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    },
+    {
+        "id": "16",
+        "title": "Karen Luxury Villa",
+        "location": "Karen",
+        "price": "90000000",
+        "bedrooms": 6,
+        "status": "Completed",
+        "image": "img/product-3/2.jpg",
+        "category": "For Sale",
+        "date": "January 5, 2025",
+        "description": "A luxurious 6-bedroom villa in the serene and prestigious Karen suburb.",
+        "features": {
+            "property_id": "HZ44",
+            "home_area": "600 sqm",
+            "rooms": 20,
+            "baths": 7,
+            "year_built": 2015,
+            "lot_area": "1000 sqm",
+            "lot_dimensions": "40m x 50m",
+            "bedrooms": "6",
+            "price": "90,000,000 KES",
+            "property_status": "For Sale"
+        },
+        "amenities": ["Gym", "Swimming Pool", "WiFi", "Refrigerator", "24x7 Security"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/24.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/25.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/26.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    },
+    {
+        "id": "17",
+        "title": "South B Cozy Apartments",
+        "location": "South B",
+        "price": "12000000",
+        "bedrooms": 2,
+        "status": "Furnished",
+        "image": "img/product-3/2.jpg",
+        "category": "For Sale",
+        "date": "December 28, 2024",
+        "description": "2-bedroom furnished apartment with a modern touch, located in South B.",
+        "features": {
+            "property_id": "HZ45",
+            "home_area": "150 sqm",
+            "rooms": 5,
+            "baths": 2,
+            "year_built": 2022,
+            "lot_area": "200 sqm",
+            "lot_dimensions": "12m x 15m",
+            "bedrooms": "2",
+            "price": "12,000,000 KES",
+            "property_status": "For Sale"
+        },
+        "amenities": ["Gym", "WiFi", "Refrigerator", "Air Conditioning", "Microwave"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/27.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/28.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/29.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    },
+    {
+        "id": "18",
+        "title": "Pangani Luxury Maisonette",
+        "location": "Pangani",
+        "price": "30000000",
+        "bedrooms": 4,
+        "status": "Unfurnished",
+        "image": "img/product-3/2.jpg",
+        "category": "For Sale",
+        "date": "December 20, 2024",
+        "description": "Spacious and modern 4-bedroom maisonette in Pangani, perfect for families.",
+        "features": {
+            "property_id": "HZ46",
+            "home_area": "400 sqm",
+            "rooms": 10,
+            "baths": 4,
+            "year_built": 2019,
+            "lot_area": "600 sqm",
+            "lot_dimensions": "20m x 30m",
+            "bedrooms": "4",
+            "price": "30,000,000 KES",
+            "property_status": "For Sale"
+        },
+        "amenities": ["Swimming Pool", "Gym", "WiFi", "Refrigerator", "24x7 Security"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/30.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/32.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    },
+    {
+        "id": "19",
+        "title": "Riverside Skyline Apartments",
+        "location": "Riverside",
+        "price": "15000000",
+        "bedrooms": 3,
+        "status": "Furnished",
+        "image": "img/product-3/2.jpg",
+        "category": "For Sale",
+        "date": "December 15, 2024",
+        "description": "3-bedroom furnished apartment in Riverside with modern amenities and easy access to the CBD.",
+        "features": {
+            "property_id": "HZ47",
+            "home_area": "180 sqm",
+            "rooms": 7,
+            "baths": 3,
+            "year_built": 2020,
+            "lot_area": "250 sqm",
+            "lot_dimensions": "15m x 20m",
+            "bedrooms": "3",
+            "price": "15,000,000 KES",
+            "property_status": "For Sale"
+        },
+        "amenities": ["WiFi", "Swimming Pool", "Air Conditioning", "24x7 Security", "Refrigerator"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/33.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/34.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/35.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    },
+    {
+        "id": "20",
+        "title": "Parklands Premium Apartments",
+        "location": "Parklands",
+        "price": "22000000",
+        "bedrooms": 2,
+        "status": "Unfurnished",
+        "image": "img/product-3/2.jpg",
+        "category": "For Sale",
+        "date": "December 10, 2024",
+        "description": "2-bedroom apartment in Parklands with luxurious features and modern interiors.",
+        "features": {
+            "property_id": "HZ48",
+            "home_area": "160 sqm",
+            "rooms": 6,
+            "baths": 2,
+            "year_built": 2021,
+            "lot_area": "200 sqm",
+            "lot_dimensions": "12m x 18m",
+            "bedrooms": "2",
+            "price": "22,000,000 KES",
+            "property_status": "For Sale"
+        },
+        "amenities": ["WiFi", "Gym", "Refrigerator", "Air Conditioning", "Swimming Pool"],
+        "gallery": [
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/36.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/37.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/38.jpg"
+        ],
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "slider_images": [
+           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+        ]
+    }
 ]
