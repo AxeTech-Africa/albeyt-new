@@ -2128,7 +2128,20 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-
+document.addEventListener("DOMContentLoaded", function () {
+    let path = window.location.pathname;
+  
+    // Change "/index" to "/home"
+    if (path.endsWith("/index.html")) {
+      window.history.replaceState(null, "", "/home");
+    }
+  
+    // Remove ".html" from all other pages
+    else if (path.endsWith(".html")) {
+      let newPath = path.replace(".html", "");
+      window.history.replaceState(null, "", newPath);
+    }
+  });
 
 
 
