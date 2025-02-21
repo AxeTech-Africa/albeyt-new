@@ -14745,7 +14745,7 @@ input.cart-plus-minus-box {
 
 
   @media (max-width: 768px) {
-    .static-slide-area {
+    .crumb {
       padding: 130px 0 !important;
     }
   }
