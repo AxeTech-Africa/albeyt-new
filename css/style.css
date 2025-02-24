@@ -8749,7 +8749,6 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 .section-subtitle-2 {
   display: inline-block;
   padding: 5px 20px;
-  border-radius: 25px;
   position: relative; }
   .section-subtitle-2::before {
     position: absolute;
@@ -8762,7 +8761,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     -webkit-transform: translateY(-50%) translateX(50%);
     -ms-transform: translateY(-50%) translateX(50%);
     transform: translateY(-50%) translateX(50%);
-    border-radius: 25px;
+    border-radius: 0px;
     opacity: 0.1; }
 
 @media (max-width: 1599px) {
@@ -14753,6 +14752,12 @@ input.cart-plus-minus-box {
 
 
 
+
+
+
+
+
+  
 
 /* ----------------------------------------------------
     END
