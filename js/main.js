@@ -2024,7 +2024,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <div class="col-lg-12">
                     <div class="ltn__product-item ltn__product-item-4 ltn__product-item-5">
                         <div class="product-img">
-                            <a href="property-details.html"><img src="${property.image}" alt="#"></a>
+                            <a href="property-details.html?id=${property.id}"><img src="${property.image}" alt="Buy"></a>
                         </div>
                         <div class="product-info">
                             <div class="product-badge-price">

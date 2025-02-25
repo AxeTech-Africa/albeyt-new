@@ -100,7 +100,7 @@
                                             <li><a href="index.html">Home</a></li>
                                             <li><a href="buy.html">Buy</a></li>
                                             <li><a href="rent.html">Rent</a>
-                                            <li class="menu-icon"><a href="development.html">Developments</a>
+                                            <!-- <li class="menu-icon"><a href="development.html">Developments</a>
                                                 <ul>
                                                     <li><a href="development-details.html">project1</a></li>
                                                     <li><a href="development-details.html">Project2</a></li>
@@ -109,7 +109,7 @@
                                                     <li><a href="development-details.html">project5</a></li>
                                                     <li><a href="development-details.html">project6</a></li>
                                                 </ul>
-                                            </li>
+                                            </li> -->
                                             <li><a href="service.html">Services</a></li>
                                             <li><a href="about.html">About</a></li>
                                             <li><a href="blog.html">News</a></li>
@@ -170,7 +170,7 @@
                         <li><a href="index.html">Home</a></li>
                         <li><a href="buy.html">Buy</a></li>
                         <li><a href="rent.html">Rent</a></li>
-                        <li><a href="development.html">Developments</a>
+                        <!-- <li><a href="development.html">Developments</a>
                             <ul class="sub-menu">
                                 <li><a href="development-details.html">project1</a></li>
                                 <li><a href="development-details.html">Project2</a></li>
@@ -179,7 +179,7 @@
                                 <li><a href="development-details.html">project5</a></li>
                                 <li><a href="development-details.html">project6</a></li>
                             </ul>
-                        </li>
+                        </li> -->
                         <li><a href="service.html">Services</a></li>
                         <li><a href="about.html">About</a></li>
                         <li><a href="blog.html">News</a></li>
@@ -289,25 +289,13 @@
                                 </ul>
                             </div>
 
-                            <h4 class="title-2">Facts and Features</h4>
+                            <!-- <h4 class="title-2">Facts and Features</h4>
                             <div class="property-detail-feature-list clearfix mb-45" id="property-features">
-                                <!-- Features will be dynamically added here -->
-                            </div>
+                            </div> -->
 
                             <h4 class="title-2 mb-10">Amenities</h4>
                             <div class="property-details-amenities mb-60" id="property-amenities">
                                 <!-- Amenities will be dynamically added here -->
-                            </div>
-
-                            <h4 class="title-2">From Our Gallery</h4>
-                            <div class="ltn__property-details-gallery mb-30" id="property-gallery">
-                                <!-- Gallery images will be dynamically added here -->
-                            </div>
-
-                            <h4 class="title-2">Location</h4>
-                            <div class="property-details-google-map mb-60">
-                                <iframe id="property-map" width="100%" height="100%" frameborder="0" allowfullscreen
-                                    aria-hidden="false" tabindex="0"></iframe>
                             </div>
 
                             <h4 class="title-2">Property Video</h4>
@@ -318,6 +306,18 @@
                                     <i class="fa fa-play"></i>
                                 </a>
                             </div>
+
+                            <!-- <h4 class="title-2">From Our Gallery</h4>
+                            <div class="ltn__property-details-gallery mb-30" id="property-gallery">
+                            </div> -->
+
+                            <h4 class="title-2">Location</h4>
+                            <div class="property-details-google-map mb-60">
+                                <iframe id="property-map" width="100%" height="100%" frameborder="0" allowfullscreen
+                                    aria-hidden="false" tabindex="0"></iframe>
+                            </div>
+
+                            
                         </div>
 
                         <div
@@ -373,10 +373,10 @@
                             </div>
 
 
-                            <h4 class="title-2">Related Properties</h4>
+                            <!-- <h4 class="title-2">Related Properties</h4> -->
                             <div class="row">
                                 <!-- ltn__product-item -->
-                                <div class="col-xl-6 col-sm-6 col-12">
+                                <!-- <div class="col-xl-6 col-sm-6 col-12">
                                     <div
                                         class="ltn__product-item ltn__product-item-4 ltn__product-item-5 text-center---">
                                         <div class="product-img">
@@ -428,10 +428,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- ltn__product-item -->
                                 <!-- ltn__product-item -->
-                                <div class="col-xl-6 col-sm-6 col-12">
+                                <!-- <div class="col-xl-6 col-sm-6 col-12">
                                     <div
                                         class="ltn__product-item ltn__product-item-4 ltn__product-item-5 text-center---">
                                         <div class="product-img">
@@ -479,7 +479,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- ltn__product-item end -->
                             </div>
                         </div>
@@ -776,20 +776,19 @@
             }, 500);
 
             // Populate Facts and Features horizontally
-            const featureContainer = document.getElementById('property-features');
-            featureContainer.innerHTML = ""; // Clear previous features
-            // Apply flex styles to display horizontally
-            featureContainer.style.display = 'flex';
-            featureContainer.style.flexWrap = 'wrap';
-            featureContainer.style.gap = '10px';
-            for (const [key, value] of Object.entries(property.features)) {
-                const iconClass = featureIcons[key] || "fa fa-info-circle";
-                let featureItem = document.createElement('div');
-                featureItem.classList.add('feature-item');
-                featureItem.innerHTML = `<i class="${iconClass}" style="color: #cba329;"></i>
-                                         <span>${key.replace(/_/g, ' ').toUpperCase()}: ${value}</span>`;
-                featureContainer.appendChild(featureItem);
-            }
+            // const featureContainer = document.getElementById('property-features');
+            // featureContainer.innerHTML = "";
+            // featureContainer.style.display = 'flex';
+            // featureContainer.style.flexWrap = 'wrap';
+            // featureContainer.style.gap = '10px';
+            // for (const [key, value] of Object.entries(property.features)) {
+            //     const iconClass = featureIcons[key] || "fa fa-info-circle";
+            //     let featureItem = document.createElement('div');
+            //     featureItem.classList.add('feature-item');
+            //     featureItem.innerHTML = `<i class="${iconClass}" style="color: #cba329;"></i>
+            //                              <span>${key.replace(/_/g, ' ').toUpperCase()}: ${value}</span>`;
+            //     featureContainer.appendChild(featureItem);
+            // }
 
             // Inject amenities dynamically
             const amenitiesList = document.getElementById('property-amenities');
@@ -802,47 +801,44 @@
             });
 
             // Populate Gallery
-            const galleryContainer = document.getElementById('property-gallery');
-            galleryContainer.innerHTML = ""; // Clear previous gallery
+            // const galleryContainer = document.getElementById('property-gallery');
+            // galleryContainer.innerHTML = ""; 
+            // if (property.gallery.length >= 3) {
+            //     let rowDiv = document.createElement('div');
+            //     rowDiv.classList.add('row');
 
-            if (property.gallery.length >= 3) {
-                // Create row container for images
-                let rowDiv = document.createElement('div');
-                rowDiv.classList.add('row');
+            //     let colLeft = document.createElement('div');
+            //     colLeft.classList.add('col-md-6');
+            //     for (let i = 0; i < 2; i++) {
+            //         let galleryItem = document.createElement('a');
+            //         galleryItem.href = property.gallery[i];
+            //         galleryItem.setAttribute('data-rel', 'lightcase:myCollection');
+            //         galleryItem.innerHTML = `<img class="mb-30" src="${property.gallery[i]}" alt="Gallery Image" style="width: 740px; height: 352px; object-fit: cover;">`;
+            //         colLeft.appendChild(galleryItem);
+            //     }
 
-                // First two images (740x352)
-                let colLeft = document.createElement('div');
-                colLeft.classList.add('col-md-6');
-                for (let i = 0; i < 2; i++) {
-                    let galleryItem = document.createElement('a');
-                    galleryItem.href = property.gallery[i];
-                    galleryItem.setAttribute('data-rel', 'lightcase:myCollection');
-                    galleryItem.innerHTML = `<img class="mb-30" src="${property.gallery[i]}" alt="Gallery Image" style="width: 740px; height: 352px; object-fit: cover;">`;
-                    colLeft.appendChild(galleryItem);
-                }
+            //     let colRight = document.createElement('div');
+            //     colRight.classList.add('col-md-6');
+            //     let galleryItem = document.createElement('a');
+            //     galleryItem.href = property.gallery[2];
+            //     galleryItem.setAttribute('data-rel', 'lightcase:myCollection');
+            //     galleryItem.innerHTML = `<img class="mb-30" src="${property.gallery[2]}" alt="Gallery Image" style="width: 740px; height: 400px; object-fit: cover;">`;
+            //     colRight.appendChild(galleryItem);
 
-                // Third image (740x834)
-                let colRight = document.createElement('div');
-                colRight.classList.add('col-md-6');
-                let galleryItem = document.createElement('a');
-                galleryItem.href = property.gallery[2];
-                galleryItem.setAttribute('data-rel', 'lightcase:myCollection');
-                galleryItem.innerHTML = `<img class="mb-30" src="${property.gallery[2]}" alt="Gallery Image" style="width: 740px; height: 400px; object-fit: cover;">`;
-                colRight.appendChild(galleryItem);
+            //     rowDiv.appendChild(colLeft);
+            //     rowDiv.appendChild(colRight);
 
-                // Append both columns to the row
-                rowDiv.appendChild(colLeft);
-                rowDiv.appendChild(colRight);
+            //     galleryContainer.appendChild(rowDiv);
+            // }
 
-                // Append row to gallery container
-                galleryContainer.appendChild(rowDiv);
-            }
+            
+            // Set Video Link
+             document.getElementById('property-video-link').href = property.video;
 
             // Set Location Map
             document.getElementById('property-map').src = property.location_map;
 
-            // Set Video Link
-            document.getElementById('property-video-link').href = property.video;
+           
         }
 
     </script>
