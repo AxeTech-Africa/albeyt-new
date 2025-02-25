@@ -25,13 +25,10 @@
             "property_status": "Condo"
         },
         "amenities": ["Air Conditioning", "Gym", "Swimming Pool", "WiFi", "Recreation Area", "Microwave", "Refrigerator", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/15.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/14.jpg"
-        ],
-        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3...",
-        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+     
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.856022888093!2d36.81627632568985!3d-1.2584166855977788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171b71d96ab1%3A0x85adbff8dd9b15c7!2sDiamond%20Plaza%201!5e0!3m2!1sen!2ske!4v1740472660520!5m2!1sen!2ske",
+        "video": "3.mp4",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -64,14 +61,12 @@
             "price": "5,000,000 KES",
             "property_status": "Apartment"
         },
-        "amenities": ["Air Conditioning", "Gym", "Swimming Pool", "WiFi", "Microwave", "Refrigerator", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/12.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/13.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/14.jpg"
-        ],
+        "amenities": [ "Gym", "Swimming Pool", "WiFi", "Microwave", "Refrigerator", "24x7 Security"],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
@@ -105,13 +100,11 @@
             "property_status": "Flat"
         },
         "amenities": ["WiFi", "24x7 Security", "Refrigerator", "Microwave"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/10.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/11.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/12.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/34.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
@@ -145,13 +138,11 @@
             "property_status": "Villa"
         },
         "amenities": ["Gym", "Swimming Pool", "Air Conditioning", "24x7 Security", "Refrigerator"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/8.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/9.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/10.jpg"
-        ],
+        
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
@@ -185,13 +176,11 @@
             "property_status": "Apartment"
         },
         "amenities": ["WiFi", "Refrigerator", "Microwave"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/7.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/6.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/5.jpg"
-        ],
+        
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -225,13 +214,11 @@
             "property_status": "House"
         },
         "amenities": ["Gym", "WiFi", "Refrigerator", "Air Conditioning", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/5.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/6.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/7.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -265,13 +252,11 @@
             "property_status": "Villa"
         },
         "amenities": ["WiFi", "Air Conditioning", "Refrigerator", "Swimming Pool", "Gym", "24x7 Security"],
-        "gallery": [
-            "img/gallery/black-wall-of-building-with-opened-windows-2023-11-27-05-24-38-utc.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/4.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/5.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -304,13 +289,11 @@
             "property_status": "Flat"
         },
         "amenities": ["WiFi", "Microwave", "Refrigerator"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/1.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/2.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/3.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -344,13 +327,11 @@
             "property_status": "Duplex"
         },
         "amenities": ["Gym", "Swimming Pool", "WiFi", "Air Conditioning", "Refrigerator"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/4.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/5.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/6.jpg"
-        ],
+      
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -384,13 +365,11 @@
             "property_status": "TownHouse"
         },
         "amenities": ["Gym", "Swimming Pool", "WiFi", "Refrigerator", "Air Conditioning"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/6.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/7.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/8.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -422,13 +401,11 @@
             "property_status": "For Sale"
         },
         "amenities": ["Gym", "WiFi", "Microwave", "Refrigerator", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/9.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/10.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/11.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -460,13 +437,11 @@
             "property_status": "For Sale"
         },
         "amenities": ["WiFi", "Microwave", "Refrigerator", "Air Conditioning"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/12.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/13.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/14.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -498,13 +473,11 @@
             "property_status": "For Sale"
         },
         "amenities": ["WiFi", "Swimming Pool", "Gym", "Refrigerator", "Air Conditioning"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/15.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/17.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -536,13 +509,11 @@
             "property_status": "For Sale"
         },
         "amenities": ["Gym", "WiFi", "Refrigerator", "24x7 Security", "Swimming Pool"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/18.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/19.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/20.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -574,13 +545,11 @@
             "property_status": "For Sale"
         },
         "amenities": ["WiFi", "Refrigerator", "Air Conditioning", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/21.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/22.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/23.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -612,13 +581,11 @@
             "property_status": "For Sale"
         },
         "amenities": ["Gym", "Swimming Pool", "WiFi", "Refrigerator", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/24.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/25.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/26.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -650,13 +617,11 @@
             "property_status": "For Sale"
         },
         "amenities": ["Gym", "WiFi", "Refrigerator", "Air Conditioning", "Microwave"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/27.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/28.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/29.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -688,13 +653,11 @@
             "property_status": "For Sale"
         },
         "amenities": ["Swimming Pool", "Gym", "WiFi", "Refrigerator", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/30.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/31.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/32.jpg"
-        ],
+        
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -726,13 +689,11 @@
             "property_status": "For Sale"
         },
         "amenities": ["WiFi", "Swimming Pool", "Air Conditioning", "24x7 Security", "Refrigerator"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/33.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/34.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/35.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+
         "slider_images": [
            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -764,13 +725,11 @@
             "property_status": "For Sale"
         },
         "amenities": ["WiFi", "Gym", "Refrigerator", "Air Conditioning", "Swimming Pool"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/36.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/37.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/38.jpg"
-        ],
+        
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+
         "slider_images": [
            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",

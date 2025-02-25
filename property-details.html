@@ -293,14 +293,14 @@
                             <div class="property-detail-feature-list clearfix mb-45" id="property-features">
                             </div> -->
 
-                            <h4 class="title-2 mb-10">Amenities</h4>
-                            <div class="property-details-amenities mb-60" id="property-amenities">
+                            <h4 class="title-2 mb-10 ">Amenities</h4>
+                            <div class="property-details-amenities mb-60 section-bg-1" id="property-amenities">
                                 <!-- Amenities will be dynamically added here -->
                             </div>
 
                             <h4 class="title-2">Property Video</h4>
                             <div class="ltn__video-bg-img ltn__video-popup-height-500 bg-overlay-black-50 bg-image mb-60"
-                                data-bg="img/others/5.jpg">
+                                data-bg="#" href="#" id="vid-bg">
                                 <a class="ltn__video-icon-2 ltn__video-icon-2-border---" href="#"
                                     id="property-video-link">
                                     <i class="fa fa-play"></i>
@@ -536,8 +536,7 @@
                                 <p>We can help you realize your dream of a new home</p>
                             </div>
                             <div class="btn-wrapper">
-                                <a class="btn btn-effect-3 btn-white" href="contact.html">Explore Properties <i
-                                        class="icon-next"></i></a>
+                                <a class="btn btn-effect-3 btn-white" href="contact.html">Contact Us<i class="icon-next"></i></a>
                             </div>
                         </div>
                     </div>
@@ -796,7 +795,7 @@
             property.amenities?.forEach(amenity => {
                 const amenityItem = document.createElement('div');
                 amenityItem.classList.add('checkbox-item');
-                amenityItem.innerHTML = `<label>${amenity}<input type="checkbox" checked="checked"><span class="checkmark"></span></label>`;
+                amenityItem.innerHTML = `<label><span class="amenity-icon">&#x2713;</span>${amenity.trim()}</label>`;
                 amenitiesList.appendChild(amenityItem);
             });
 
@@ -834,6 +833,7 @@
             
             // Set Video Link
              document.getElementById('property-video-link').href = property.video;
+             document.getElementById('vid-bg').style.backgroundImage = `url(${property.video_bg})`;
 
             // Set Location Map
             document.getElementById('property-map').src = property.location_map;
