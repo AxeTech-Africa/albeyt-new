@@ -19547,13 +19547,23 @@ h1 {
  
 .crumb {
   position: relative;
-  background: url('/img/urban.webp?ver=1') no-repeat center center;
+  background: url('img/urban.webp') no-repeat center center;
   background-size: cover;
   background-color: #000;
   padding: 280px 0;
+  min-height: 70vh; /* Ensures the section always covers the full screen */
+}
+
+/* Fix for smaller screens */
+@media (max-width: 768px) {
+  .crumb {
+      min-height: 40vh; /* Forces full height on mobile */
+      padding: 200px 0; /* Adjust spacing */
+  }
 }
 
 
+/* Overlay */
 .overlay {
   position: absolute;
   top: 0;
@@ -19562,6 +19572,7 @@ h1 {
   height: 100%;
   background: rgba(83, 83, 85, 0.253);
 }
+
 
 .container.text-center {
   position: relative;

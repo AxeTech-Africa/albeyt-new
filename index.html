@@ -219,6 +219,8 @@
         </div>
         
         
+        
+        
         <!-- SLIDER AREA END -->
 
 
@@ -527,7 +529,17 @@
         </div>
     </div>
     <!-- preloader area end -->
-
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            let crumb = document.querySelector(".crumb");
+            let img = new Image();
+            img.src = "img/urban.webp";
+            img.onload = function () {
+                crumb.style.backgroundImage = "url('img/urban.webp')";
+            };
+        });
+    </script>
+    
     <!-- All JS Plugins -->
     <script defer src="js/plugins.min.js"></script>
     <!-- Main JS -->
