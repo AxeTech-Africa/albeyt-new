@@ -19544,13 +19544,15 @@ h1 {
     padding-right: 20px;
   }
 }
-
+ 
 .crumb {
   position: relative;
   background: url('/img/urban.webp?ver=1') no-repeat center center;
   background-size: cover;
   padding: 280px 0;
   background-color: #000;
+  background-attachment: fixed;
+
 }
 
 .overlay {
