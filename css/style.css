@@ -14762,7 +14762,18 @@ input.cart-plus-minus-box {
 
 
 
-
+  h1 {
+    font-size: 3rem; /* Default size on larger screens */
+  }
+  
+  /* Smaller devices (e.g., max-width: 576px) */
+  @media (max-width: 576px) {
+    h1 {
+      font-size: 0.1rem; /* Smaller font for mobile */
+      padding-left: 20px;padding-right: 20px;
+    }
+  }
+  
 
 
 

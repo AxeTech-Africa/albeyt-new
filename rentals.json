@@ -9,7 +9,7 @@
         "image": "img/product-3/2.jpg",
         "houseType": "Condo",
 
-        "category": "Featured, For Rent",
+        "category": "Featured, For Sale",
         "date": "February 17, 2025",
         "description": "A modern and spacious apartment situated in a prime location in Nairobi, Kenya.",
         "features": {
@@ -25,13 +25,10 @@
             "property_status": "Condo"
         },
         "amenities": ["Air Conditioning", "Gym", "Swimming Pool", "WiFi", "Recreation Area", "Microwave", "Refrigerator", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/15.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/14.jpg"
-        ],
-        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3...",
-        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+     
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.856022888093!2d36.81627632568985!3d-1.2584166855977788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171b71d96ab1%3A0x85adbff8dd9b15c7!2sDiamond%20Plaza%201!5e0!3m2!1sen!2ske!4v1740472660520!5m2!1sen!2ske",
+        "video": "3.mp4",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg",
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -49,7 +46,7 @@
         "image": "img/product-3/2.jpg",
         "houseType": "Apartment",
 
-        "category": "Featured, For Rent",
+        "category": "Featured, For Sale",
         "date": "February 16, 2025",
         "description": "A luxurious 4-bedroom house with stunning views and modern amenities.",
         "features": {
@@ -64,14 +61,12 @@
             "price": "5,000,000 KES",
             "property_status": "Apartment"
         },
-        "amenities": ["Air Conditioning", "Gym", "Swimming Pool", "WiFi", "Microwave", "Refrigerator", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/12.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/13.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/14.jpg"
-        ],
+        "amenities": [ "Gym", "Swimming Pool", "WiFi", "Microwave", "Refrigerator", "24x7 Security"],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
@@ -89,7 +84,7 @@
        "image": "img/product-3/2.jpg",
        "houseType": "Flat",
 
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "February 14, 2025",
         "description": "A 3-bedroom apartment offering a perfect blend of comfort and convenience.",
         "features": {
@@ -105,13 +100,11 @@
             "property_status": "Flat"
         },
         "amenities": ["WiFi", "24x7 Security", "Refrigerator", "Microwave"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/10.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/11.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/12.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/34.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
@@ -129,7 +122,7 @@
         "image": "img/product-3/2.jpg",
         "houseType": "Villa",
 
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "February 12, 2025",
         "description": "A luxurious villa offering ample living space and a large backyard.",
         "features": {
@@ -145,13 +138,11 @@
             "property_status": "Villa"
         },
         "amenities": ["Gym", "Swimming Pool", "Air Conditioning", "24x7 Security", "Refrigerator"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/8.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/9.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/10.jpg"
-        ],
+        
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
@@ -169,7 +160,7 @@
         "image": "img/product-3/2.jpg",
         "houseType": "Apartment",
 
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "February 10, 2025",
         "description": "Compact studio apartment perfect for individuals or couples.",
         "features": {
@@ -185,13 +176,11 @@
             "property_status": "Apartment"
         },
         "amenities": ["WiFi", "Refrigerator", "Microwave"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/7.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/6.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/5.jpg"
-        ],
+        
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -209,7 +198,7 @@
         "image": "img/product-3/2.jpg",
         "houseType": "House",
 
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "February 7, 2025",
         "description": "Luxury homes with breathtaking views in one of Nairobi's most desirable areas.",
         "features": {
@@ -225,18 +214,16 @@
             "property_status": "House"
         },
         "amenities": ["Gym", "WiFi", "Refrigerator", "Air Conditioning", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/5.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/6.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/7.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/36.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/37.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/38.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/39.jpg"
+          "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
         ]
     },
     {
@@ -249,7 +236,7 @@
         "image": "img/product-3/2.jpg",
         "houseType": "Villa",
 
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "February 5, 2025",
         "description": "Modern villa with spacious living areas and located in a prime area of Kilimani.",
         "features": {
@@ -265,18 +252,16 @@
             "property_status": "Villa"
         },
         "amenities": ["WiFi", "Air Conditioning", "Refrigerator", "Swimming Pool", "Gym", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/3.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/4.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/5.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/40.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/41.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/42.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/43.jpg"
+           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
         ]
     },
     {
@@ -288,7 +273,7 @@
         "status": "Completed",
         "image": "img/product-3/2.jpg",
         "houseType": "Flat",
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "February 1, 2025",
         "description": "Cozy studio apartment perfect for those looking for a smaller, budget-friendly option.",
         "features": {
@@ -304,18 +289,16 @@
             "property_status": "Flat"
         },
         "amenities": ["WiFi", "Microwave", "Refrigerator"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/1.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/2.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/3.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/44.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/45.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/46.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/47.jpg"
+           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
         ]
     },
     {
@@ -328,7 +311,7 @@
         "image": "img/product-3/2.jpg",
         "houseType": "Duplex",
 
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "January 28, 2025",
         "description": "Grand mansion located in Ngong Road with high-end features and expansive grounds.",
         "features": {
@@ -344,18 +327,16 @@
             "property_status": "Duplex"
         },
         "amenities": ["Gym", "Swimming Pool", "WiFi", "Air Conditioning", "Refrigerator"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/5.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/5.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/6.jpg"
-        ],
+      
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/48.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/49.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/50.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/51.jpg"
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
         ]
     },
     {
@@ -368,7 +349,7 @@
         "image": "img/product-3/2.jpg",
         "houseType": "TownHouse",
 
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "January 25, 2025",
         "description": "Expansive garden residence with luxurious interiors, located in Karen, Nairobi.",
         "features": {
@@ -384,13 +365,11 @@
             "property_status": "TownHouse"
         },
         "amenities": ["Gym", "Swimming Pool", "WiFi", "Refrigerator", "Air Conditioning"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/6.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/7.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/8.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -406,7 +385,7 @@
         "bedrooms": 4,
         "status": "Furnished",
         "image": "img/product-3/2.jpg",
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "January 20, 2025",
         "description": "Elegant 4-bedroom house with a spacious garden in the heart of Lavington.",
         "features": {
@@ -419,16 +398,14 @@
             "lot_dimensions": "20m x 25m",
             "bedrooms": "4",
             "price": "35,000,000 KES",
-            "property_status": "For Rent"
+            "property_status": "For Sale"
         },
         "amenities": ["Gym", "WiFi", "Microwave", "Refrigerator", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/9.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/10.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/11.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -444,7 +421,7 @@
         "bedrooms": 3,
         "status": "Unfurnished",
         "image": "img/product-3/2.jpg",
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "January 18, 2025",
         "description": "Spacious 3-bedroom villa with serene surroundings, located in Kilimani.",
         "features": {
@@ -457,16 +434,14 @@
             "lot_dimensions": "15m x 25m",
             "bedrooms": "3",
             "price": "12,000,000 KES",
-            "property_status": "For Rent"
+            "property_status": "For Sale"
         },
         "amenities": ["WiFi", "Microwave", "Refrigerator", "Air Conditioning"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/12.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/13.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/14.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -482,7 +457,7 @@
         "bedrooms": 5,
         "status": "Completed",
         "image": "img/product-3/2.jpg",
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "January 15, 2025",
         "description": "Stunning 5-bedroom penthouse with panoramic views of Nairobi skyline.",
         "features": {
@@ -495,16 +470,14 @@
             "lot_dimensions": "30m x 40m",
             "bedrooms": "5",
             "price": "75,000,000 KES",
-            "property_status": "For Rent"
+            "property_status": "For Sale"
         },
         "amenities": ["WiFi", "Swimming Pool", "Gym", "Refrigerator", "Air Conditioning"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/15.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/17.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -520,7 +493,7 @@
         "bedrooms": 4,
         "status": "Furnished",
         "image": "img/product-3/2.jpg",
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "January 12, 2025",
         "description": "Charming 4-bedroom house in Pangani with a beautiful garden and great location.",
         "features": {
@@ -533,18 +506,16 @@
             "lot_dimensions": "20m x 22m",
             "bedrooms": "4",
             "price": "25,000,000 KES",
-            "property_status": "For Rent"
+            "property_status": "For Sale"
         },
         "amenities": ["Gym", "WiFi", "Refrigerator", "24x7 Security", "Swimming Pool"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/18.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/19.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/20.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
@@ -558,7 +529,7 @@
         "bedrooms": 3,
         "status": "Unfurnished",
         "image": "img/product-3/2.jpg",
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "January 10, 2025",
         "description": "Modern 3-bedroom apartment in Ngara with easy access to public transport.",
         "features": {
@@ -571,16 +542,14 @@
             "lot_dimensions": "12m x 25m",
             "bedrooms": "3",
             "price": "20,000,000 KES",
-            "property_status": "For Rent"
+            "property_status": "For Sale"
         },
         "amenities": ["WiFi", "Refrigerator", "Air Conditioning", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/21.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/22.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/23.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -596,7 +565,7 @@
         "bedrooms": 6,
         "status": "Completed",
         "image": "img/product-3/2.jpg",
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "January 5, 2025",
         "description": "A luxurious 6-bedroom villa in the serene and prestigious Karen suburb.",
         "features": {
@@ -609,18 +578,16 @@
             "lot_dimensions": "40m x 50m",
             "bedrooms": "6",
             "price": "90,000,000 KES",
-            "property_status": "For Rent"
+            "property_status": "For Sale"
         },
         "amenities": ["Gym", "Swimming Pool", "WiFi", "Refrigerator", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/24.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/25.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/26.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
-           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
@@ -634,7 +601,7 @@
         "bedrooms": 2,
         "status": "Furnished",
         "image": "img/product-3/2.jpg",
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "December 28, 2024",
         "description": "2-bedroom furnished apartment with a modern touch, located in South B.",
         "features": {
@@ -647,18 +614,16 @@
             "lot_dimensions": "12m x 15m",
             "bedrooms": "2",
             "price": "12,000,000 KES",
-            "property_status": "For Rent"
+            "property_status": "For Sale"
         },
         "amenities": ["Gym", "WiFi", "Refrigerator", "Air Conditioning", "Microwave"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/27.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/28.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/29.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
-           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
@@ -672,7 +637,7 @@
         "bedrooms": 4,
         "status": "Unfurnished",
         "image": "img/product-3/2.jpg",
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "December 20, 2024",
         "description": "Spacious and modern 4-bedroom maisonette in Pangani, perfect for families.",
         "features": {
@@ -685,18 +650,16 @@
             "lot_dimensions": "20m x 30m",
             "bedrooms": "4",
             "price": "30,000,000 KES",
-            "property_status": "For Rent"
+            "property_status": "For Sale"
         },
         "amenities": ["Swimming Pool", "Gym", "WiFi", "Refrigerator", "24x7 Security"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/30.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/31.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/32.jpg"
-        ],
+        
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+
         "slider_images": [
-           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
@@ -710,7 +673,7 @@
         "bedrooms": 3,
         "status": "Furnished",
         "image": "img/product-3/2.jpg",
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "December 15, 2024",
         "description": "3-bedroom furnished apartment in Riverside with modern amenities and easy access to the CBD.",
         "features": {
@@ -723,16 +686,14 @@
             "lot_dimensions": "15m x 20m",
             "bedrooms": "3",
             "price": "15,000,000 KES",
-            "property_status": "For Rent"
+            "property_status": "For Sale"
         },
         "amenities": ["WiFi", "Swimming Pool", "Air Conditioning", "24x7 Security", "Refrigerator"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/33.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/34.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/35.jpg"
-        ],
+       
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
+
         "slider_images": [
            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
@@ -748,7 +709,7 @@
         "bedrooms": 2,
         "status": "Unfurnished",
         "image": "img/product-3/2.jpg",
-        "category": "For Rent",
+        "category": "For Sale",
         "date": "December 10, 2024",
         "description": "2-bedroom apartment in Parklands with luxurious features and modern interiors.",
         "features": {
@@ -761,18 +722,16 @@
             "lot_dimensions": "12m x 18m",
             "bedrooms": "2",
             "price": "22,000,000 KES",
-            "property_status": "For Rent"
+            "property_status": "For Sale"
         },
         "amenities": ["WiFi", "Gym", "Refrigerator", "Air Conditioning", "Swimming Pool"],
-        "gallery": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/36.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/37.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/38.jpg"
-        ],
+        
         "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
+        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+
         "slider_images": [
-          "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
             "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
