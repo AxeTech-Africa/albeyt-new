@@ -19581,6 +19581,19 @@ h1 {
   color: #b48b62;
 }
 
+@media (max-width: 768px) { /* Target mobile screens */
+  #property-title {
+      text-align: left; /* Moves text slightly left */
+      margin-left: -13px; /* Adjust spacing */
+      white-space: nowrap; /* Prevents text from wrapping */
+      overflow: hidden; /* Hides overflow instead of breaking lines */
+      text-overflow: ellipsis; /* Adds "..." if text is too long */
+      max-width: 100%; /* Ensures it fits within the screen */
+      font-size: 21px; /* Adjusts font size for better fit */
+  }
+}
+
+
 
 /* ----------------------------------------------------
     END
