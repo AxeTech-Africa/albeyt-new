@@ -19549,12 +19549,10 @@ h1 {
   position: relative;
   background: url('/img/urban.webp?ver=1') no-repeat center center;
   background-size: cover;
-  padding: 280px 0;
   background-color: #000;
-  background-attachment: fixed;
-
-  
+  padding: 280px 0;
 }
+
 
 .overlay {
   position: absolute;
