@@ -45,23 +45,23 @@
 [ End table content ]
 ======================================*/
 
-(function($) {
-  "use strict";
+(function ($) {
+    "use strict";
 
-    jQuery(document).ready(function(){
-      
+    jQuery(document).ready(function () {
+
         /* --------------------------------------------------------
             1. Variables
         --------------------------------------------------------- */
         var $window = $(window),
-        $body = $('body');
+            $body = $('body');
 
         /* --------------------------------------------------------
             2. Mobile Menu
         --------------------------------------------------------- */
-         /* ---------------------------------
-            Utilize Function 
-        ----------------------------------- */
+        /* ---------------------------------
+           Utilize Function 
+       ----------------------------------- */
         (function () {
             var $ltn__utilizeToggle = $('.ltn__utilize-toggle'),
                 $ltn__utilize = $('.ltn__utilize'),
@@ -121,13 +121,13 @@
         /* --------------------------------------------------------
             3. Mega Menu
         --------------------------------------------------------- */
-        $('.mega-menu').each(function(){
-            if($(this).children('li').length){
+        $('.mega-menu').each(function () {
+            if ($(this).children('li').length) {
                 var ulChildren = $(this).children('li').length;
-                $(this).addClass('column-'+ulChildren)
+                $(this).addClass('column-' + ulChildren)
             }
         });
-        
+
 
         /* Remove Attribute( href ) from sub-menu title in mega-menu */
         /*
@@ -138,11 +138,11 @@
         /* Mega Munu  */
         /* $(".mega-menu").parent().css({"position": "inherit"}); */
         $(".mega-menu").parent().addClass("mega-menu-parent");
-        
+
 
         /* Add space for Elementor Menu Anchor link */
-        $( window ).on( 'elementor/frontend/init', function() {
-            elementorFrontend.hooks.addFilter( 'frontend/handlers/menu_anchor/scroll_top_distance', function( scrollTop ) {
+        $(window).on('elementor/frontend/init', function () {
+            elementorFrontend.hooks.addFilter('frontend/handlers/menu_anchor/scroll_top_distance', function (scrollTop) {
                 return scrollTop - 75;
             });
         });
@@ -151,45 +151,45 @@
             3-2. Category Menu
         --------------------------------------------------------- */
 
-        $('.ltn__category-menu-title').on('click', function(){
+        $('.ltn__category-menu-title').on('click', function () {
             $('.ltn__category-menu-toggle').slideToggle(500);
-        });	
+        });
 
         /* Category Menu More Item show */
-        $('.ltn__category-menu-more-item-parent').on('click', function(){
+        $('.ltn__category-menu-more-item-parent').on('click', function () {
             $('.ltn__category-menu-more-item-child').slideToggle();
             $(this).toggleClass('rx-change');
 
         });
 
         /* Category Submenu Column Count */
-        $('.ltn__category-submenu').each(function(){
-            if($(this).children('li').length){
+        $('.ltn__category-submenu').each(function () {
+            if ($(this).children('li').length) {
                 var ulChildren = $(this).children('li').length;
-                $(this).addClass('ltn__category-column-no-'+ulChildren)
+                $(this).addClass('ltn__category-column-no-' + ulChildren)
             }
         });
 
         /* Category Menu Responsive */
-        function ltn__CategoryMenuToggle(){
-            $('.ltn__category-menu-toggle .ltn__category-menu-drop > a').on('click', function(){
-            if($(window).width() < 991){
-                $(this).removeAttr('href');
-                var element = $(this).parent('li');
-                if (element.hasClass('open')) {
-                    element.removeClass('open');
-                    element.find('li').removeClass('open');
-                    element.find('ul').slideUp();
+        function ltn__CategoryMenuToggle() {
+            $('.ltn__category-menu-toggle .ltn__category-menu-drop > a').on('click', function () {
+                if ($(window).width() < 991) {
+                    $(this).removeAttr('href');
+                    var element = $(this).parent('li');
+                    if (element.hasClass('open')) {
+                        element.removeClass('open');
+                        element.find('li').removeClass('open');
+                        element.find('ul').slideUp();
+                    }
+                    else {
+                        element.addClass('open');
+                        element.children('ul').slideDown();
+                        element.siblings('li').children('ul').slideUp();
+                        element.siblings('li').removeClass('open');
+                        element.siblings('li').find('li').removeClass('open');
+                        element.siblings('li').find('ul').slideUp();
+                    }
                 }
-                else {
-                    element.addClass('open');
-                    element.children('ul').slideDown();
-                    element.siblings('li').children('ul').slideUp();
-                    element.siblings('li').removeClass('open');
-                    element.siblings('li').find('li').removeClass('open');
-                    element.siblings('li').find('ul').slideUp();
-                }
-            }
             });
             $('.ltn__category-menu-toggle .ltn__category-menu-drop > a').append('<span class="expand"></span>');
         }
@@ -200,8 +200,8 @@
             4. One Page Navigation ( jQuery Easing Plugin )
         --------------------------------------------------------- */
         // jQuery for page scrolling feature - requires jQuery Easing plugin
-        $(function() {
-            $('a.page-scroll').bind('click', function(event) {
+        $(function () {
+            $('a.page-scroll').bind('click', function (event) {
                 var $anchor = $(this);
                 $('html, body').stop().animate({
                     scrollTop: $($anchor.attr('href')).offset().top
@@ -215,7 +215,7 @@
             5. Toogle Search
         -------------------------------------------------------- */
         // Handle click on toggle search button
-        $('.header-search-1').on('click', function() {
+        $('.header-search-1').on('click', function () {
             $('.header-search-1, .header-search-1-form').toggleClass('search-open');
             return false;
         });
@@ -231,10 +231,10 @@
             7. Background Image
         --------------------------------------------------------- */
         var $backgroundImage = $('.bg-image, .bg-image-top');
-        $backgroundImage.each(function() {
+        $backgroundImage.each(function () {
             var $this = $(this),
                 $bgImage = $this.data('bs-bg');
-            $this.css('background-image', 'url('+$bgImage+')');
+            $this.css('background-image', 'url(' + $bgImage + ')');
         });
 
 
@@ -255,12 +255,12 @@
         --------------------------------------------------------- */
         $('select').niceSelect();
 
-        
+
         /* --------------------------------------------------------
             11. Default active and hover item active
         --------------------------------------------------------- */
         var ltn__active_item = $('.ltn__feature-item-6, .ltn__our-journey-wrap ul li, .ltn__pricing-plan-item')
-        ltn__active_item.mouseover(function() {
+        ltn__active_item.mouseover(function () {
             ltn__active_item.removeClass('active');
             $(this).addClass('active');
         });
@@ -308,14 +308,14 @@
                 }
             ]
         });
-                        
+
         /* --------------------------------------------------------
             13. Isotope Gallery Active  ( Gallery / Portfolio )
         -------------------------------------------------------- */
         var $ltnGalleryActive = $('.ltn__gallery-active'),
             $ltnGalleryFilterMenu = $('.ltn__gallery-filter-menu');
         /*Filter*/
-        $ltnGalleryFilterMenu.on( 'click', 'button, a', function() {
+        $ltnGalleryFilterMenu.on('click', 'button, a', function () {
             var $this = $(this),
                 $filterValue = $this.attr('data-filter');
             $ltnGalleryFilterMenu.find('button, a').removeClass('active');
@@ -323,10 +323,10 @@
             $ltnGalleryActive.isotope({ filter: $filterValue });
         });
         /*Grid*/
-        $ltnGalleryActive.each(function(){
+        $ltnGalleryActive.each(function () {
             var $this = $(this),
                 $galleryFilterItem = '.ltn__gallery-item';
-            $this.imagesLoaded( function() {
+            $this.imagesLoaded(function () {
                 $this.isotope({
                     itemSelector: $galleryFilterItem,
                     percentPosition: true,
@@ -372,7 +372,7 @@
                     }
                 }
             ]
-        }).on('afterChange', function(){
+        }).on('afterChange', function () {
             new WOW().init();
         });
         /* --------------------------------------------------------
@@ -400,20 +400,20 @@
                     }
                 }
             ]
-        }).on('afterChange', function(){
+        }).on('afterChange', function () {
             new WOW().init();
         });
 
-        
+
         /*----------------------
             Slider 11 active
         -----------------------*/
-        $('.ltn__slider-11-active').on('init reInit afterChange', function(event, slick, currentSlide, nextSlide){
+        $('.ltn__slider-11-active').on('init reInit afterChange', function (event, slick, currentSlide, nextSlide) {
             var i = (currentSlide ? currentSlide : 0) + 1;
-            $('.ltn__slider-11-pagination-count .count').text('0'+i);
+            $('.ltn__slider-11-pagination-count .count').text('0' + i);
             $('.ltn__slider-11-pagination-count .total').text('0' + slick.slideCount);
 
-            $('.ltn__slider-11-slide-item-count .count').text('0'+i);
+            $('.ltn__slider-11-slide-item-count .count').text('0' + i);
             $('.ltn__slider-11-slide-item-count .total').text('/0' + slick.slideCount);
             new WOW().init();
         }).slick({
@@ -1159,7 +1159,7 @@
                 }
             ]
         });
-        
+
         /* --------------------------------------------------------
             21. Testimonial Slider - 6
         --------------------------------------------------------- */
@@ -1536,7 +1536,7 @@
         /* --------------------------------------------------------
             27. Brand Logo
         --------------------------------------------------------- */
-        if($('.ltn__brand-logo-active').length){
+        if ($('.ltn__brand-logo-active').length) {
             $('.ltn__brand-logo-active').slick({
                 rtl: false,
                 arrows: false,
@@ -1672,7 +1672,7 @@
         /* --------------------------------------------------------
             28. Blog Gallery (Blog Page )
         --------------------------------------------------------- */
-        if($('.ltn__blog-gallery-active').length){
+        if ($('.ltn__blog-gallery-active').length) {
             $('.ltn__blog-gallery-active').slick({
                 rtl: false,
                 arrows: true,
@@ -1712,17 +1712,17 @@
         // $('.ltn__counter').counterUp();
 
         $('.counter').counterUp({
-          delay: 10,
-          time: 2000
+            delay: 10,
+            time: 2000
         });
-        $('.counter').addClass('animated fadeInDownBig');  
+        $('.counter').addClass('animated fadeInDownBig');
         $('h3').addClass('animated fadeIn');
-        
+
 
         /* --------------------------------------------------------
             31. Instagram Feed
         --------------------------------------------------------- */
-        if($('.ltn__instafeed').length){
+        if ($('.ltn__instafeed').length) {
             $.instagramFeed({
                 'username': 'envato',
                 'container': ".ltn__instafeed",
@@ -1789,17 +1789,17 @@
         /* ---------------------------------------------------------
             32. Price Slider
         --------------------------------------------------------- */
-        $( ".slider-range" ).slider({
+        $(".slider-range").slider({
             range: true,
             min: 50,
             max: 5000,
-            values: [ 50, 1500 ],
-            slide: function( event, ui ) {
-                $( ".amount" ).val( "$" + ui.values[ 0 ] + " - $" + ui.values[ 1 ] );
+            values: [50, 1500],
+            slide: function (event, ui) {
+                $(".amount").val("$" + ui.values[0] + " - $" + ui.values[1]);
             }
         });
-        $( ".amount" ).val( "$" + $( ".slider-range" ).slider( "values", 0 ) +
-        " - $" + $( ".slider-range" ).slider( "values", 1 ) ); 
+        $(".amount").val("$" + $(".slider-range").slider("values", 0) +
+            " - $" + $(".slider-range").slider("values", 1));
 
 
         /* --------------------------------------------------------
@@ -1807,16 +1807,16 @@
         -------------------------------------------------------- */
         $(".cart-plus-minus").prepend('<div class="dec qtybutton">-</div>');
         $(".cart-plus-minus").append('<div class="inc qtybutton">+</div>');
-        $(".qtybutton").on("click", function() {
+        $(".qtybutton").on("click", function () {
             var $button = $(this);
             var oldValue = $button.parent().find("input").val();
             if ($button.text() == "+") {
                 var newVal = parseFloat(oldValue) + 1;
-            } 
+            }
             else {
                 if (oldValue > 0) {
                     var newVal = parseFloat(oldValue) - 1;
-                } 
+                }
                 else {
                     newVal = 0;
                 }
@@ -1825,7 +1825,7 @@
         });
 
 
-	    /* --------------------------------------------------------
+        /* --------------------------------------------------------
             34. scrollUp active
         -------------------------------------------------------- */
         $.scrollUp({
@@ -1836,19 +1836,19 @@
         });
 
 
-	    /* --------------------------------------------------------
+        /* --------------------------------------------------------
             35. Parallax active ( About Section  )
         -------------------------------------------------------- */
         /* 
         > 1 page e 2 ta call korle 1 ta kaj kore 
         */
-        if($('.ltn__parallax-effect-active').length){
+        if ($('.ltn__parallax-effect-active').length) {
             var scene = $('.ltn__parallax-effect-active').get(0);
             var parallaxInstance = new Parallax(scene);
         }
 
 
-	    /* --------------------------------------------------------
+        /* --------------------------------------------------------
             36. Testimonial Slider 4
         -------------------------------------------------------- */
         var ltn__testimonial_quote_slider = $('.ltn__testimonial-slider-4-active');
@@ -1964,21 +1964,21 @@
     /* --------------------------------------------------------
         36. Header menu sticky
     -------------------------------------------------------- */
-    $(window).on('scroll',function() {    
+    $(window).on('scroll', function () {
         var scroll = $(window).scrollTop();
         if (scroll < 445) {
             $(".ltn__header-sticky").removeClass("sticky-active");
         } else {
             $(".ltn__header-sticky").addClass("sticky-active");
         }
-    }); 
+    });
 
 
-    $(window).on('load',function(){
+    $(window).on('load', function () {
         /*-----------------
             preloader
         ------------------*/
-        if($('#preloader').length){
+        if ($('#preloader').length) {
             var preLoder = $("#preloader");
             preLoder.fadeOut(1000);
 
@@ -1992,35 +1992,35 @@
     // script for sale start
 
 
-document.addEventListener("DOMContentLoaded", function () {
-    const propertiesContainer = document.querySelector(".ltn__product-tab-content-inner .row");
-    const paginationContainer = document.querySelector(".ltn__pagination ul");
-    const itemsPerPage = 6;
-    let properties = [];
-    let filteredProperties = [];
-    let currentPage = 1;
+    document.addEventListener("DOMContentLoaded", function () {
+        const propertiesContainer = document.querySelector(".ltn__product-tab-content-inner .row");
+        const paginationContainer = document.querySelector(".ltn__pagination ul");
+        const itemsPerPage = 6;
+        let properties = [];
+        let filteredProperties = [];
+        let currentPage = 1;
 
-    // Fetch properties from properties.json
-    async function fetchProperties() {
-        try {
-            const response = await fetch("properties.json");
-            properties = await response.json();
-            filteredProperties = properties;
-            renderProperties();
-            renderPagination();
-        } catch (error) {
-            console.error("Error fetching properties:", error);
+        // Fetch properties from properties.json
+        async function fetchProperties() {
+            try {
+                const response = await fetch("properties.json");
+                properties = await response.json();
+                filteredProperties = properties;
+                renderProperties();
+                renderPagination();
+            } catch (error) {
+                console.error("Error fetching properties:", error);
+            }
         }
-    }
 
-    function renderProperties() {
-        propertiesContainer.innerHTML = "";
-        let start = (currentPage - 1) * itemsPerPage;
-        let end = start + itemsPerPage;
-        let paginatedProperties = filteredProperties.slice(start, end);
+        function renderProperties() {
+            propertiesContainer.innerHTML = "";
+            let start = (currentPage - 1) * itemsPerPage;
+            let end = start + itemsPerPage;
+            let paginatedProperties = filteredProperties.slice(start, end);
 
-        paginatedProperties.forEach(property => {
-            let propertyHTML = `
+            paginatedProperties.forEach(property => {
+                let propertyHTML = `
                 <div class="col-lg-12">
                     <div class="ltn__product-item ltn__product-item-4 ltn__product-item-5">
                         <div class="product-img">
@@ -2064,62 +2064,62 @@ document.addEventListener("DOMContentLoaded", function () {
                         </div>
                     </div>
                 </div>`;
-            propertiesContainer.innerHTML += propertyHTML;
-        });
-    }
-
-    function renderPagination() {
-        paginationContainer.innerHTML = "";
-        let totalPages = Math.ceil(filteredProperties.length / itemsPerPage);
-
-        paginationContainer.innerHTML += `<li><a href="#" data-page="prev"><i class="fas fa-angle-double-left"></i></a></li>`;
-        for (let i = 1; i <= totalPages; i++) {
-            paginationContainer.innerHTML += `<li class="${i === currentPage ? "active" : ""}"><a href="#" data-page="${i}">${i}</a></li>`;
+                propertiesContainer.innerHTML += propertyHTML;
+            });
         }
-        paginationContainer.innerHTML += `<li><a href="#" data-page="next"><i class="fas fa-angle-double-right"></i></a></li>`;
-    }
 
-    paginationContainer.addEventListener("click", function (e) {
-        if (e.target.tagName === "A") {
-            let page = e.target.dataset.page;
-            if (page === "prev" && currentPage > 1) currentPage--;
-            else if (page === "next" && currentPage < Math.ceil(filteredProperties.length / itemsPerPage)) currentPage++;
-            else if (!isNaN(page)) currentPage = parseInt(page);
+        function renderPagination() {
+            paginationContainer.innerHTML = "";
+            let totalPages = Math.ceil(filteredProperties.length / itemsPerPage);
+
+            paginationContainer.innerHTML += `<li><a href="#" data-page="prev"><i class="fas fa-angle-double-left"></i></a></li>`;
+            for (let i = 1; i <= totalPages; i++) {
+                paginationContainer.innerHTML += `<li class="${i === currentPage ? "active" : ""}"><a href="#" data-page="${i}">${i}</a></li>`;
+            }
+            paginationContainer.innerHTML += `<li><a href="#" data-page="next"><i class="fas fa-angle-double-right"></i></a></li>`;
+        }
+
+        paginationContainer.addEventListener("click", function (e) {
+            if (e.target.tagName === "A") {
+                let page = e.target.dataset.page;
+                if (page === "prev" && currentPage > 1) currentPage--;
+                else if (page === "next" && currentPage < Math.ceil(filteredProperties.length / itemsPerPage)) currentPage++;
+                else if (!isNaN(page)) currentPage = parseInt(page);
+                renderProperties();
+                renderPagination();
+            }
+        });
+
+        // Filtering Function
+        function applyFilters() {
+            let locationFilter = document.getElementById("locationFilter").value;
+            let priceFilter = parseInt(document.getElementById("priceFilter").value) || null;
+            let bedroomFilter = document.getElementById("bedroomFilter").value;
+            let statusFilter = document.getElementById("statusFilter").value;
+            let houseTypeFilter = document.getElementById("houseTypeFilter").value;
+
+            filteredProperties = properties.filter(property => {
+                return (
+                    (locationFilter === "all" || property.location === locationFilter) &&
+                    (!priceFilter || property.price <= priceFilter) &&
+                    (bedroomFilter === "all" || property.bedrooms.toString() === bedroomFilter) &&
+                    (statusFilter === "all" || property.status === statusFilter) &&
+                    (houseTypeFilter === "all" || property.houseType === houseTypeFilter)
+                );
+            });
+
+            currentPage = 1;
             renderProperties();
             renderPagination();
         }
+
+        document.getElementById("filterButton").addEventListener("click", applyFilters);
+
+        fetchProperties();
     });
 
-    // Filtering Function
-    function applyFilters() {
-        let locationFilter = document.getElementById("locationFilter").value;
-        let priceFilter = parseInt(document.getElementById("priceFilter").value) || null;
-        let bedroomFilter = document.getElementById("bedroomFilter").value;
-        let statusFilter = document.getElementById("statusFilter").value;
-        let houseTypeFilter = document.getElementById("houseTypeFilter").value;
 
-        filteredProperties = properties.filter(property => {
-            return (
-                (locationFilter === "all" || property.location === locationFilter) &&
-                (!priceFilter || property.price <= priceFilter) &&
-                (bedroomFilter === "all" || property.bedrooms.toString() === bedroomFilter) &&
-                (statusFilter === "all" || property.status === statusFilter) &&
-                (houseTypeFilter === "all" || property.houseType === houseTypeFilter)
-            );
-        });
-
-        currentPage = 1;
-        renderProperties();
-        renderPagination();
-    }
-
-    document.getElementById("filterButton").addEventListener("click", applyFilters);
-
-    fetchProperties();
-});
-
-
-// script for sale end
+    // script for sale end
 
 
 
@@ -2129,7 +2129,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-    
 
-  
+
+
 })(jQuery);
