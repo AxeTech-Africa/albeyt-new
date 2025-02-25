@@ -639,23 +639,23 @@
     <!-- Body main wrapper end -->
 
     <!-- All JS Plugins -->
-    <script defer src="js/plugins.js"></script>
+    <script defer src="js/plugins.min.js"></script>
     <script>
         function sendWhatsAppMessage(event) {
-    event.preventDefault();
-    const name = document.querySelector('input[name="yourname"]').value;
-    const email = document.querySelector('input[name="youremail"]').value;
-    const message = document.querySelector('textarea[name="yourmessage"]').value;
-    
-    const text = `Name: ${name}\nEmail: ${email}\nMessage: ${message}`;
-    const encodedText = encodeURIComponent(text);
-    
-    // Kenyan phone number in international format
-    const phoneNumber = "254720377755"; 
-    const whatsappUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodedText}`;
-    
-    window.open(whatsappUrl, "_blank");
-  }
+            event.preventDefault();
+            const name = document.querySelector('input[name="yourname"]').value;
+            const email = document.querySelector('input[name="youremail"]').value;
+            const message = document.querySelector('textarea[name="yourmessage"]').value;
+
+            const text = `Name: ${name}\nEmail: ${email}\nMessage: ${message}`;
+            const encodedText = encodeURIComponent(text);
+
+            // Kenyan phone number in international format
+            const phoneNumber = "254720377755";
+            const whatsappUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodedText}`;
+
+            window.open(whatsappUrl, "_blank");
+        }
     </script>
     <!-- Main JS -->
     <script defer src="js/main.min.js"></script>

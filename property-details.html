@@ -6,7 +6,8 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Property Details - Albeyt Consult</title>
     <meta name="robots" content="index, follow" />
-    <meta name="description" content="Albeyt Consult is your trusted partner in real estate, offering expert services in property buying, renting, project management, and bespoke interior design for a seamless experience.">
+    <meta name="description"
+        content="Albeyt Consult is your trusted partner in real estate, offering expert services in property buying, renting, project management, and bespoke interior design for a seamless experience.">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Place favicon.png in the root directory -->
@@ -100,7 +101,7 @@
                                             <li><a href="index.html">Home</a></li>
                                             <li><a href="buy.html">Buy</a></li>
                                             <li><a href="rent.html">Rent</a>
-                                            <!-- <li class="menu-icon"><a href="development.html">Developments</a>
+                                                <!-- <li class="menu-icon"><a href="development.html">Developments</a>
                                                 <ul>
                                                     <li><a href="development-details.html">project1</a></li>
                                                     <li><a href="development-details.html">Project2</a></li>
@@ -317,7 +318,7 @@
                                     aria-hidden="false" tabindex="0"></iframe>
                             </div>
 
-                            
+
                         </div>
 
                         <div
@@ -493,7 +494,8 @@
                                     <input type="text" name="yourname" placeholder="Your Name*" required>
                                     <input type="email" name="youremail" placeholder="Your e-Mail*" required>
                                     <textarea name="yourmessage" placeholder="Write Message..." required></textarea>
-                                    <button type="submit" class="btn theme-btn-1" style="background-color: #cba329;">Send Message</button>
+                                    <button type="submit" class="btn theme-btn-1"
+                                        style="background-color: #cba329;">Send Message</button>
                                 </form>
                             </div>
 
@@ -535,7 +537,8 @@
                                 <p>We can help you realize your dream of a new home</p>
                             </div>
                             <div class="btn-wrapper">
-                                <a class="btn btn-effect-3 btn-white" href="contact.html">Contact Us<i class="icon-next"></i></a>
+                                <a class="btn btn-effect-3 btn-white" href="contact.html">Contact Us<i
+                                        class="icon-next"></i></a>
                             </div>
                         </div>
                     </div>
@@ -829,39 +832,39 @@
             //     galleryContainer.appendChild(rowDiv);
             // }
 
-            
+
             // Set Video Link
-             document.getElementById('property-video-link').href = property.video;
-             document.getElementById('vid-bg').style.backgroundImage = `url(${property.video_bg})`;
+            document.getElementById('property-video-link').href = property.video;
+            document.getElementById('vid-bg').style.backgroundImage = `url(${property.video_bg})`;
 
             // Set Location Map
             document.getElementById('property-map').src = property.location_map;
 
-           
+
         }
 
     </script>
     <script>
         function sendWhatsAppMessage(event) {
-    event.preventDefault();
-    const name = document.querySelector('input[name="yourname"]').value;
-    const email = document.querySelector('input[name="youremail"]').value;
-    const message = document.querySelector('textarea[name="yourmessage"]').value;
-    
-    const text = `Name: ${name}\nEmail: ${email}\nMessage: ${message}`;
-    const encodedText = encodeURIComponent(text);
-    
-    // Kenyan phone number in international format
-    const phoneNumber = "254720377755"; 
-    const whatsappUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodedText}`;
-    
-    window.open(whatsappUrl, "_blank");
-  }
+            event.preventDefault();
+            const name = document.querySelector('input[name="yourname"]').value;
+            const email = document.querySelector('input[name="youremail"]').value;
+            const message = document.querySelector('textarea[name="yourmessage"]').value;
+
+            const text = `Name: ${name}\nEmail: ${email}\nMessage: ${message}`;
+            const encodedText = encodeURIComponent(text);
+
+            // Kenyan phone number in international format
+            const phoneNumber = "254720377755";
+            const whatsappUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodedText}`;
+
+            window.open(whatsappUrl, "_blank");
+        }
     </script>
-    <script defer src="js/plugins.js"></script>
+    <script defer src="js/plugins.min.js"></script>
     <!-- Main JS -->
     <!-- <script defer src="js/main.js"></script> -->
-    <script defer  src = "Js/rent.js"></script>
+    <script defer src="Js/rent.js"></script>
     <script defer src="js/main.min.js"></script>
 
 </body>
