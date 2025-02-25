@@ -19551,6 +19551,8 @@ h1 {
   background-size: cover;
   padding: 280px 0;
   background-color: #000;
+  background-attachment: fixed;
+
   
 }
 
