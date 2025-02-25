@@ -489,12 +489,11 @@
 
                             <div class="widget ltn__form-widget">
                                 <h4 class="ltn__widget-title ltn__widget-title-border-2">Drop Message To Book</h4>
-                                <form id="contact-form" action="https://formspree.io/f/mvgoyyeo" method="POST">
+                                <form id="contact-form" onsubmit="sendWhatsAppMessage(event)">
                                     <input type="text" name="yourname" placeholder="Your Name*" required>
                                     <input type="email" name="youremail" placeholder="Your e-Mail*" required>
                                     <textarea name="yourmessage" placeholder="Write Message..." required></textarea>
-                                    <button type="submit" class="btn theme-btn-1"
-                                        style="background-color: #cba329;">Send Message</button>
+                                    <button type="submit" class="btn theme-btn-1" style="background-color: #cba329;">Send Message</button>
                                 </form>
                             </div>
 
@@ -841,6 +840,23 @@
            
         }
 
+    </script>
+    <script>
+        function sendWhatsAppMessage(event) {
+    event.preventDefault();
+    const name = document.querySelector('input[name="yourname"]').value;
+    const email = document.querySelector('input[name="youremail"]').value;
+    const message = document.querySelector('textarea[name="yourmessage"]').value;
+    
+    const text = `Name: ${name}\nEmail: ${email}\nMessage: ${message}`;
+    const encodedText = encodeURIComponent(text);
+    
+    // Kenyan phone number in international format
+    const phoneNumber = "254720377755"; 
+    const whatsappUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodedText}`;
+    
+    window.open(whatsappUrl, "_blank");
+  }
     </script>
     <script defer src="js/plugins.js"></script>
     <!-- Main JS -->
