@@ -275,26 +275,26 @@
                     <div class="col-lg-12">
                         <div class="ltn__form-box contact-form-box box-shadow white-bg">
                             <h4 class="title-2">Get A Quote</h4>
-                            <form id="contact-form" action="mail.php" method="post">
+                            <form id="contact-form" onsubmit="sendWhatsApp(); return false;">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="input-item input-item-name ltn__custom-icon">
-                                            <input type="text" name="name" placeholder="Enter your name">
+                                            <input type="text" id="name" placeholder="Enter your name" required>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="input-item input-item-email ltn__custom-icon">
-                                            <input type="email" name="email" placeholder="Enter email address">
+                                            <input type="email" id="email" placeholder="Enter email address" required>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="input-item">
-                                            <select class="nice-select">
-                                                <option>Select Service Type</option>
+                                            <select id="service" class="nice-select" required>
+                                                <option value="">Select Service Type</option>
                                                 <option>Buy</option>
                                                 <option>Rent</option>
                                                 <option>Real Estate</option>
-                                                <option>Property Management </option>
+                                                <option>Property Management</option>
                                                 <option>Project Management</option>
                                                 <option>Interior Design</option>
                                             </select>
@@ -302,16 +302,15 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="input-item input-item-phone ltn__custom-icon">
-                                            <input type="text" name="phone" placeholder="Enter phone number">
+                                            <input type="text" id="phone" placeholder="Enter phone number" required>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="input-item input-item-textarea ltn__custom-icon">
-                                    <textarea name="message" placeholder="Enter message"></textarea>
+                                    <textarea id="message" placeholder="Enter message" required></textarea>
                                 </div>
                                 <div class="btn-wrapper mt-0">
-                                    <button class="btn theme-btn-1 btn-effect-1 text-uppercase"
-                                        type="submit">Send</button>
+                                    <button class="btn theme-btn-1 btn-effect-1 text-uppercase" type="submit">Send</button>
                                 </div>
                                 <p class="form-messege mb-0 mt-20"></p>
                             </form>
@@ -496,6 +495,20 @@
     <!-- Body main wrapper end -->
 
     <!-- All JS Plugins -->
+     <script>
+        function sendWhatsApp() {
+    var name = document.getElementById("name").value;
+    var email = document.getElementById("email").value;
+    var service = document.getElementById("service").value;
+    var phone = document.getElementById("phone").value;
+    var message = document.getElementById("message").value;
+
+    var text = `Hello, my name is ${name}. Email: ${email}, Phone: ${phone}. I'm interested in ${service}. Message: ${message}`;
+    var whatsappUrl = `https://wa.me/254720377755?text=${encodeURIComponent(text)}`;
+
+    window.open(whatsappUrl, "_blank");
+}
+     </script>
     <script defer src="js/plugins.min.js"></script>
     <!-- Contact Form -->
     <!-- <script src="js/contact.js"></script> -->
