@@ -278,12 +278,12 @@
                                     <li><label>Property ID:</label> <span id="property-id"></span></li>
                                     <li><label>Home Area: </label> <span id="property-home-area"></span></li>
                                     <li><label>Rooms:</label> <span id="property-rooms"></span></li>
-                                    <li><label>Baths:</label> <span id="property-baths"></span></li>
+                                    <li><label>Bathrooms:</label> <span id="property-baths"></span></li>
                                     <li><label>Year Built:</label> <span id="property-year-built"></span></li>
                                 </ul>
                                 <ul>
-                                    <li><label>Lot Area:</label> <span id="property-lot-area"></span></li>
-                                    <li><label>Lot Dimensions:</label> <span id="property-lot-dimensions"></span></li>
+                                    <li><label>Size:</label> <span id="property-lot-area"></span></li>
+                                    <li><label>Dimensions:</label> <span id="property-lot-dimensions"></span></li>
                                     <li><label>Bedroom(s):</label> <span id="property-bedrooms"></span></li>
                                     <li><label>Price:</label> <span id="property-price"></span></li>
                                     <li><label>Property Type:</label> <span id="property-status-label"></span></li>
@@ -299,14 +299,14 @@
                                 <!-- Amenities will be dynamically added here -->
                             </div>
 
-                            <h4 class="title-2">Property Video</h4>
+                            <!-- <h4 class="title-2">Property Video</h4>
                             <div class="ltn__video-bg-img ltn__video-popup-height-500 bg-overlay-black-50 bg-image mb-60"
                                 data-bg="#" href="#" id="vid-bg">
                                 <a class="ltn__video-icon-2 ltn__video-icon-2-border---" href="#"
                                     id="property-video-link">
                                     <i class="fa fa-play"></i>
                                 </a>
-                            </div>
+                            </div> -->
 
                             <!-- <h4 class="title-2">From Our Gallery</h4>
                             <div class="ltn__property-details-gallery mb-30" id="property-gallery">
@@ -834,8 +834,8 @@
 
 
             // Set Video Link
-            document.getElementById('property-video-link').href = property.video;
-            document.getElementById('vid-bg').style.backgroundImage = `url(${property.video_bg})`;
+            // document.getElementById('property-video-link').href = property.video;
+            // document.getElementById('vid-bg').style.backgroundImage = `url(${property.video_bg})`;
 
             // Set Location Map
             document.getElementById('property-map').src = property.location_map;

@@ -1,115 +1,108 @@
 [
     {
         "id": "1",
-        "title": "Diamond Manor Apartment",
-        "location": "Riverside",
+        "title": "5 Bedroom Duplex+DSQ – Nova 2",
+        "location": "Hurlingham",
         "price": "24000",
-        "bedrooms": 2,
-        "status": "Furnished",
-        "image": "img/product-3/2.jpg",
-        "houseType": "Condo",
+        "bedrooms": 5,
+        "status": "Unfurnished",
+        "image": "img/nova/novaa.jpeg",
+        "houseType": "Duplex",
 
         "category": "Featured, For Sale",
-        "date": "February 17, 2025",
-        "description": "A modern and spacious apartment situated in a prime location in Nairobi, Kenya.",
+        "date": "June 22, 2023",
+        "description": "A luxurious 5-bedroom Duplex + DSQ in the serene and prestigious Nova 2 apartments in Hurlingham.",
         "features": {
-            "property_id": "HZ29",
-            "home_area": "120 sqm",
-            "rooms": 7,
-            "baths": 2,
-            "year_built": 1992,
-            "lot_area": "200 sqm",
-            "lot_dimensions": "10m x 20m",
-            "bedrooms": "studio",
+            "property_id": "31361",
+            "home_area": "307 sqm",
+            "rooms": 6,
+            "baths": 5,
+            "year_built": 2023,
+            "lot_area": "307 sqm",
+            "lot_dimensions": "NA",
+            "bedrooms": 5,
             "price": "24000",
-            "property_status": "Condo"
+            "property_status": "Duplex + DSQ"
         },
-        "amenities": ["Air Conditioning", "Gym", "Swimming Pool", "WiFi", "Recreation Area", "Microwave", "Refrigerator", "24x7 Security"],
+        "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
      
-        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.856022888093!2d36.81627632568985!3d-1.2584166855977788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171b71d96ab1%3A0x85adbff8dd9b15c7!2sDiamond%20Plaza%201!5e0!3m2!1sen!2ske!4v1740472660520!5m2!1sen!2ske",
-        "video": "3.mp4",
-        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+        "location_map": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3988.8090192382765!2d36.79724137536864!3d-1.2887853781518335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skibiria%20lenana%20road%20hurlingham!5e0!3m2!1sen!2ske!4v1742905053944!5m2!1sen!2ske",
         "slider_images": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+            "img/nova/nova.png",
+            "img/nova/nova.png",
+            "img/nova/nova.png"
         ]
     },
     {
         "id": "2",
-        "title": "Lavington Heights",
-        "location": "Lavington",
+        "title": "6 Bedroom Penthouse +DSQ -Nova 2",
+        "location": "Hurlingham",
         "price": "50000000",
-        "bedrooms": 4,
-        "status": "Furnished",
-        "image": "img/product-3/2.jpg",
-        "houseType": "Apartment",
+        "bedrooms": 6,
+        "status": "Unfurnished",
+        "image": "img/nova/novaa.jpeg",
+        "houseType": "Penthouse",
 
         "category": "Featured, For Sale",
-        "date": "February 16, 2025",
-        "description": "A luxurious 4-bedroom house with stunning views and modern amenities.",
+        "date": "Junes 22, 2023",
+        "description": "A luxurious 6-bedroom penthouse in the serene and prestigious Nova 2 apartments in Hurlingham.",
         "features": {
-            "property_id": "HZ30",
-            "home_area": "400 sqm",
-            "rooms": 10,
-            "baths": 4,
-            "year_built": 2015,
+            "property_id": "31362",
+            "home_area": "481 sqm",
+            "rooms": 7,
+            "baths": 6,
+            "year_built": 2023,
             "lot_area": "600 sqm",
             "lot_dimensions": "15m x 25m",
-            "bedrooms": "4",
+            "bedrooms": "6",
             "price": "5,000,000 KES",
-            "property_status": "Apartment"
+            "property_status": "Penthouse + DSQ"
         },
-        "amenities": [ "Gym", "Swimming Pool", "WiFi", "Microwave", "Refrigerator", "24x7 Security"],
+        "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
        
-        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
+        "location_map": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3988.8090192382765!2d36.79724137536864!3d-1.2887853781518335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skibiria%20lenana%20road%20hurlingham!5e0!3m2!1sen!2ske!4v1742905053944!5m2!1sen!2ske",
         "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
         "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
 
         "slider_images": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/34.jpg"
+            "img/nova/nova6bed.png",
+            "img/nova/nova6bed.png",
+            "img/nova/nova6bed.png",
+            "img/nova/nova6bed.png"
         ]
     },
     {
         "id": "3",
-        "title": "Riverside Court",
-        "location": "Riverside",
-        "price": "18000000",
-        "bedrooms": 3,
+       "title": "4 Bedroom Apartment -Nova 2",
+        "location": "Hurlingham",
+        "price": "24000",
+        "bedrooms": 5,
         "status": "Unfurnished",
-       "image": "img/product-3/2.jpg",
-       "houseType": "Flat",
+        "image": "img/nova/novaa.jpeg",
+        "houseType": "Apartment",
 
-        "category": "For Sale",
-        "date": "February 14, 2025",
-        "description": "A 3-bedroom apartment offering a perfect blend of comfort and convenience.",
+        "category": "Featured, For Sale",
+        "date": "June 22, 2023",
+        "description": "A luxurious 4-bedroom Apartment in the serene and prestigious Nova 2 apartments in Hurlingham.",
         "features": {
-            "property_id": "HZ31",
-            "home_area": "150 sqm",
-            "rooms": 8,
-            "baths": 3,
-            "year_built": 2010,
-            "lot_area": "180 sqm",
-            "lot_dimensions": "12m x 15m",
-            "bedrooms": "3",
-            "price": "1,800,000 KES",
-            "property_status": "Flat"
+            "property_id": "31360",
+            "home_area": "307 sqm",
+            "rooms": 5,
+            "baths": 4,
+            "year_built": 2023,
+            "lot_area": "240 sqm",
+            "lot_dimensions": "NA",
+            "bedrooms": 4,
+            "price": "24000",
+            "property_status": "Apartment"
         },
-        "amenities": ["WiFi", "24x7 Security", "Refrigerator", "Microwave"],
-       
-        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
-        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
-        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
-
+        "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
+     
+        "location_map": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3988.8090192382765!2d36.79724137536864!3d-1.2887853781518335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skibiria%20lenana%20road%20hurlingham!5e0!3m2!1sen!2ske!4v1742905053944!5m2!1sen!2ske",
         "slider_images": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/34.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+            "img/nova/nova.png",
+            "img/nova/nova.png",
+            "img/nova/nova.png"
         ]
     },
     {
