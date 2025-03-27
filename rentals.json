@@ -9,7 +9,7 @@
         "image": "img/nova/novaa.jpeg",
         "houseType": "Duplex",
 
-        "category": "Featured, For  Rent",
+        "category": "Featured, For Rent",
         "date": "June 22, 2023",
         "description": "A luxurious 5-bedroom Duplex + DSQ in the serene and prestigious Nova 2 apartments in Hurlingham.",
         "features": {
@@ -45,7 +45,7 @@
         "image": "img/nova/novaa.jpeg",
         "houseType": "Penthouse",
 
-        "category": "Featured, For  Rent",
+        "category": "Featured, For Rent",
         "date": "Junes 22, 2023",
         "description": "A luxurious 6-bedroom penthouse in the serene and prestigious Nova 2 apartments in Hurlingham.",
         "features": {
@@ -83,7 +83,7 @@
         "image": "img/nova/novaa.jpeg",
         "houseType": "Apartment",
 
-        "category": "Featured, For  Rent",
+        "category": "Featured, For Rent",
         "date": "June 22, 2023",
         "description": "A luxurious 4-bedroom Apartment in the serene and prestigious Nova 2 apartments in Hurlingham.",
         "features": {
@@ -119,7 +119,7 @@
         "image": "img/nova/nova3-1.jpg",
         "houseType": "Apartment",
 
-        "category": "For  Rent",
+        "category": "For Rent",
         "date": "July 3, 2023",
         "description": "A luxurious 4-bedroom apartment + DSQ in the serene and prestigious Nova 3 apartments in Parklands 3rd Avenue.",
         "features": {
@@ -156,7 +156,7 @@
         "image": "img/nova/nova3-1.jpg",
         "houseType": "Apartment",
 
-        "category": "For  Rent",
+        "category": "For Rent",
         "date": "July 3, 2023",
         "description": "A luxurious 5-bedroom apartment + DSQ in the serene and prestigious Nova 3 apartments in Parklands 3rd Avenue.",
         "features": {
@@ -194,7 +194,7 @@
         "image": "img/nova/nova3-1.jpg",
         "houseType": "Apartment",
 
-        "category": "For  Rent",
+        "category": "For Rent",
         "date": "July 3, 2023",
         "description": "A luxurious 3-bedroom apartment + DSQ in the serene and prestigious Nova 3 apartments in Parklands 3rd Avenue.",
         "features": {
@@ -233,7 +233,7 @@
         "image": "img/nova/nova3-1.jpg",
         "houseType": "Apartment",
 
-        "category": "For  Rent",
+        "category": "For Rent",
         "date": "July 3, 2023",
         "description": "A luxurious 2-bedroom apartment + DSQ in the serene and prestigious Nova 3 apartments in Parklands 3rd Avenue.",
         "features": {
@@ -271,7 +271,7 @@
         "image": "img/nova/parkexecutive.jpeg",
         "houseType": "Duplex",
 
-        "category": "For  Rent",
+        "category": "For Rent",
         "date": "July 3, 2023",
         "description": "A luxurious 5-bedroom apartment + DSQ in the serene and prestigious Parklands Executive Suite in Parklands 3rd Avenue.",
         "features": {
@@ -306,9 +306,9 @@
         "bedrooms": 4,
         "status": "Construction ongoing",
         "image": "img/nova/parkexecutive.jpeg",
-        "houseType": "Duplex",
+        "houseType": "Apartment",
 
-        "category": "For  Rent",
+        "category": "For Rent",
         "date": "July 3, 2023",
         "description": "A luxurious 4-bedroom apartment  in the serene and prestigious Parklands Executive Suite in Parklands 3rd Avenue.",
         "features": {
@@ -343,9 +343,9 @@
         "bedrooms": 2,
         "status": "Construction ongoing",
         "image": "img/nova/parkexecutive.jpeg",
-        "houseType": "Simplex Apartment",
+        "houseType": "Simplex",
 
-        "category": "For  Rent",
+        "category": "For Rent",
         "date": "July 3, 2023",
         "description": "A luxurious 2-bedroom simplex apartment  in the serene and prestigious Parklands Executive Suite in Parklands 3rd Avenue.",
         "features": {
@@ -382,7 +382,7 @@
         "image": "img/nova/rodol.jpg",
         "houseType": "Apartment",
 
-        "category": "For  Rent",
+        "category": "For Rent",
         "date": "May 31, 2024",
         "description": "A luxurious 4-bedroom apartment + DSQ in the serene and prestigious Rodol Heights in Ole Shapara Avenue, South C",
         "features": {
@@ -419,7 +419,7 @@
         "image": "img/nova/rodol.jpg",
         "houseType": "Apartment",
 
-        "category": "For  Rent",
+        "category": "For Rent",
         "date": "May 31, 2024",
         "description": "A luxurious 3-bedroom apartment + DSQ in the serene and prestigious Rodol Heights in Ole Shapara Avenue, South C",
         "features": {
@@ -456,7 +456,7 @@
         "image": "img/nova/rodol.jpg",
         "houseType": "Apartment",
 
-        "category": "For  Rent",
+        "category": "For Rent",
         "date": "May 31, 2024",
         "description": "A luxurious 2-bedroom apartment + DSQ in the serene and prestigious Rodol Heights in Ole Shapara Avenue, South C",
         "features": {
@@ -493,7 +493,7 @@
         "image": "img/nova/rodolduplex.jpg",
         "houseType": "Duplex",
 
-        "category": "For  Rent",
+        "category": "For Rent",
         "date": "July 3, 2023",
         "description": "A luxurious 5-bedroom Duplex + DSQ in the serene and prestigious Rodol Duplex in Parklands 3rd Avenue.",
         "features": {
@@ -530,7 +530,7 @@
         "image": "img/nova/rodolduplex.jpg",
         "houseType": "Apartment",
 
-        "category": "For  Rent",
+        "category": "For Rent",
         "date": "July 3, 2023",
         "description": "A luxurious 3-bedroom Apartment + DSQ in the serene and prestigious Rodol Duplex in Parklands 3rd Avenue.",
         "features": {
@@ -568,7 +568,7 @@
         "image": "img/nova/rodol4th.png",
         "houseType": "Apartment",
 
-        "category": "For  Rent",
+        "category": "For Rent",
         "date": "May 16, 2024",
         "description": "A luxurious 3-bedroom Royal Residency Apartment  in the serene and prestigious Rodol  in Eastleigh 4th street.",
         "features": {
@@ -606,7 +606,46 @@
         "image": "img/nova/rodol4th.png",
         "houseType": "Apartment",
 
-        "category": "For  Rent",
+        "category": "For Rent",
+        "date": "May 16, 2024",
+        "description": "A luxurious 2-bedroom Royal Residency Apartment  in the serene and prestigious Rodol  in Eastleigh 4th street.",
+        "features": {
+            "property_id": " 31519",
+            "home_area": "85 sqm",
+            "rooms": 2,
+            "baths": 2,
+            "year_built": 2023,
+            "lot_area": "85 sqm",
+            "lot_dimensions": "NA",
+            "bedrooms": "3",
+            "price": "3,500,000 KES",
+            "property_status": "Apartment"
+        },
+        "amenities": ["Dedicated prayer room","Ample parking",  "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception",  "Borehole", "24x7 Security"],
+        
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.834960236603!2d36.84712457568994!3d-1.2721147356122844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f17d4e8b5105d%3A0x4be057413fdf1b93!2z8J2XpfCdl6LwnZeX8J2XovCdl58g8J2fsPCdl6fwnZebIPCdl6bwnZen8J2XpfCdl5jwnZeY8J2Xpw!5e0!3m2!1sen!2ske!4v1743060076918!5m2!1sen!2ske" ,
+        "video": "https://youtu.be/nLOBIjoxqRA",
+        "video_bg":"img/nova/rodolduplex.jpg",
+
+        "slider_images": [
+            "img/nova/rod44.png",
+            "img/nova/rodol4thstreet.png",
+            "img/nova/rodl4.png",
+            "img/nova/rodoleast.png"
+        ]
+    },
+    
+    {
+        "id": "18",
+        "title": "4 bedroom apartments + DSQ -Kingswood Apartments",
+        "location": "Parklands",
+        "price": "3500000",
+        "bedrooms": 2,
+        "status": "Construction ongoing",
+        "image": "img/nova/rodol4th.png",
+        "houseType": "Apartment",
+
+        "category": "For Rent",
         "date": "May 16, 2024",
         "description": "A luxurious 2-bedroom Royal Residency Apartment  in the serene and prestigious Rodol  in Eastleigh 4th street.",
         "features": {

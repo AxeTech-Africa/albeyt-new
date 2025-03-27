@@ -306,7 +306,7 @@
         "bedrooms": 4,
         "status": "Construction ongoing",
         "image": "img/nova/parkexecutive.jpeg",
-        "houseType": "Duplex",
+        "houseType": "Apartment",
 
         "category": "For Sale",
         "date": "July 3, 2023",
@@ -343,7 +343,7 @@
         "bedrooms": 2,
         "status": "Construction ongoing",
         "image": "img/nova/parkexecutive.jpeg",
-        "houseType": "Simplex Apartment",
+        "houseType": "Simplex",
 
         "category": "For Sale",
         "date": "July 3, 2023",
