@@ -299,14 +299,15 @@
                                 <!-- Amenities will be dynamically added here -->
                             </div>
 
-                            <!-- <h4 class="title-2">Property Video</h4>
+                            <h4 class="title-2">Property Video</h4>
                             <div class="ltn__video-bg-img ltn__video-popup-height-500 bg-overlay-black-50 bg-image mb-60"
                                 data-bg="#" href="#" id="vid-bg">
                                 <a class="ltn__video-icon-2 ltn__video-icon-2-border---" href="#"
                                     id="property-video-link">
                                     <i class="fa fa-play"></i>
                                 </a>
-                            </div> -->
+                            </div>
+                            
 
                             <!-- <h4 class="title-2">From Our Gallery</h4>
                             <div class="ltn__property-details-gallery mb-30" id="property-gallery">
@@ -835,13 +836,47 @@
 
             // Set Video Link
             // document.getElementById('property-video-link').href = property.video;
-            // document.getElementById('vid-bg').style.backgroundImage = `url(${property.video_bg})`;
+            document.getElementById('vid-bg').style.backgroundImage = `url(${property.video_bg})`;
 
             // Set Location Map
             document.getElementById('property-map').src = property.location_map;
 
 
         }
+
+    </script>
+    <script>
+     // Fetch property data from JSON
+fetch('properties.json')
+    .then(response => response.json())
+    .then(data => {
+        const urlParams = new URLSearchParams(window.location.search);
+        const propertyId = urlParams.get('id');
+        const property = data.find(p => p.id === propertyId);
+
+        if (property) {
+            const videoContainer = document.getElementById('vid-bg');
+            const videoLink = document.getElementById('property-video-link');
+
+            if (property.video.includes("youtube.com") || property.video.includes("youtu.be")) {
+                const videoUrl = property.video.replace("watch?v=", "embed/") + "?autoplay=1&rel=0";
+
+                // Click on the play button to replace with the video
+                videoLink.addEventListener('click', function (e) {
+                    e.preventDefault(); // Prevent link default action
+                    
+                    videoContainer.innerHTML = `
+                        <iframe width="100%" height="500" src="${videoUrl}" 
+                            frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    `;
+                });
+            } else {
+                videoLink.href = property.video;
+            }
+        }
+    })
+    .catch(error => console.error('Error fetching property data:', error));
+
 
     </script>
     <script>

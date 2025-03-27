@@ -5,7 +5,7 @@
         "location": "Hurlingham",
         "price": "24000",
         "bedrooms": 5,
-        "status": "Unfurnished",
+        "status": "Completed",
         "image": "img/nova/novaa.jpeg",
         "houseType": "Duplex",
 
@@ -25,12 +25,14 @@
             "property_status": "Duplex + DSQ"
         },
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
-     
         "location_map": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3988.8090192382765!2d36.79724137536864!3d-1.2887853781518335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skibiria%20lenana%20road%20hurlingham!5e0!3m2!1sen!2ske!4v1742905053944!5m2!1sen!2ske",
+        "video": "https://www.youtube.com/embed/ZdIlhwGVlGw?si=2v9saiNKu8CikJOW" ,
+        "video_bg":"img/nova/novaa.jpeg",
+
         "slider_images": [
+            "img/nova/nova23.png",
             "img/nova/nova.png",
-            "img/nova/nova.png",
-            "img/nova/nova.png"
+            "img/nova/nova30.png"
         ]
     },
     {
@@ -39,7 +41,7 @@
         "location": "Hurlingham",
         "price": "50000000",
         "bedrooms": 6,
-        "status": "Unfurnished",
+        "status": "Completed",
         "image": "img/nova/novaa.jpeg",
         "houseType": "Penthouse",
 
@@ -61,14 +63,14 @@
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
        
         "location_map": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3988.8090192382765!2d36.79724137536864!3d-1.2887853781518335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skibiria%20lenana%20road%20hurlingham!5e0!3m2!1sen!2ske!4v1742905053944!5m2!1sen!2ske",
-        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
-        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+        "video": "https://www.youtube.com/embed/ZdIlhwGVlGw?si=2v9saiNKu8CikJOW" ,
+        "video_bg":"img/nova/novaa.jpeg",
 
         "slider_images": [
             "img/nova/nova6bed.png",
-            "img/nova/nova6bed.png",
-            "img/nova/nova6bed.png",
-            "img/nova/nova6bed.png"
+            "img/nova/nova23.png",
+            "img/nova/nova24.png",
+            "img/nova/nova25.png"
         ]
     },
     {
@@ -77,7 +79,7 @@
         "location": "Hurlingham",
         "price": "24000",
         "bedrooms": 5,
-        "status": "Unfurnished",
+        "status": "Completed",
         "image": "img/nova/novaa.jpeg",
         "houseType": "Apartment",
 
@@ -97,12 +99,14 @@
             "property_status": "Apartment"
         },
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
-     
+        "video": "https://www.youtube.com/embed/ZdIlhwGVlGw?si=2v9saiNKu8CikJOW" ,
+        "video_bg":"img/nova/novaa.jpeg",
         "location_map": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3988.8090192382765!2d36.79724137536864!3d-1.2887853781518335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skibiria%20lenana%20road%20hurlingham!5e0!3m2!1sen!2ske!4v1742905053944!5m2!1sen!2ske",
         "slider_images": [
-            "img/nova/nova.png",
-            "img/nova/nova.png",
-            "img/nova/nova.png"
+            "img/nova/nova26.png",
+            "img/nova/nova27.png",
+            "img/nova/nova29.png",
+            "img/nova/nova23.png"
         ]
     },
     {
@@ -111,7 +115,7 @@
         "location": "Parklands",
         "price": "3500000",
         "bedrooms": 4,
-        "status": "Unfurnished",
+        "status": "Construction ongoing",
         "image": "img/nova/nova3-1.jpg",
         "houseType": "Apartment",
 
@@ -133,8 +137,8 @@
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
         
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
-        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
-        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+        "video": "https://www.youtube.com/embed/vZ8SIN1jOUU?si=hTPphuZxwQZcZL4B",
+        "video_bg":"img/nova/nova3-1.jpg",
 
         "slider_images": [
             "img/nova/nova3 4bed.png",
@@ -148,7 +152,7 @@
         "location": "Parklands",
         "price": "3500000",
         "bedrooms": 5,
-        "status": "Unfurnished",
+        "status": "Construction ongoing",
         "image": "img/nova/nova3-1.jpg",
         "houseType": "Apartment",
 
@@ -170,13 +174,14 @@
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
         
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
-        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
-        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+        "video": "https://www.youtube.com/embed/vZ8SIN1jOUU?si=hTPphuZxwQZcZL4B",
+        "video_bg":"img/nova/nova3-1.jpg",
 
         "slider_images": [
             "img/nova/novA3 5B.png",
             "img/nova/nova5bed.png",
-            "img/nova/4bednova3.png"
+            "img/nova/4bednova3.png",
+            "img/nova/nova36.png"
         ]
     },
     {
@@ -185,7 +190,7 @@
         "location": "Parklands",
         "price": "3500000",
         "bedrooms": 3,
-        "status": "Unfurnished",
+        "status": "Construction ongoing",
         "image": "img/nova/nova3-1.jpg",
         "houseType": "Apartment",
 
@@ -207,13 +212,15 @@
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
         
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
-        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
-        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+        "video": "https://www.youtube.com/embed/vZ8SIN1jOUU?si=hTPphuZxwQZcZL4B",
+        "video_bg":"img/nova/nova3-1.jpg",
 
         "slider_images": [
             "img/nova/NOVA33BED.png",
             "img/nova/NOVA3BED.png",
-            "img/nova/4bednova3.png"
+            "img/nova/4bednova3.png",
+            "img/nova/nova36.png"
+
         ]
     },
     {
@@ -222,7 +229,7 @@
         "location": "Parklands",
         "price": "3500000",
         "bedrooms": 2,
-        "status": "Unfurnished",
+        "status": "Construction ongoing",
         "image": "img/nova/nova3-1.jpg",
         "houseType": "Apartment",
 
@@ -244,13 +251,14 @@
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
         
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
-        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
-        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+        "video": "https://www.youtube.com/embed/vZ8SIN1jOUU?si=hTPphuZxwQZcZL4B",
+        "video_bg":"img/nova/nova3-1.jpg",
 
         "slider_images": [
             "img/nova/nova2bed.png",
             "img/nova/nova2b.png",
-            "img/nova/4bednova3.png"
+            "img/nova/4bednova3.png",
+            "img/nova/nova36.png"
         ]
     },
     {
@@ -259,7 +267,7 @@
         "location": "Parklands",
         "price": "3500000",
         "bedrooms": 5,
-        "status": "Unfurnished",
+        "status": "Construction ongoing",
         "image": "img/nova/parkexecutive.jpeg",
         "houseType": "Duplex",
 
@@ -281,7 +289,7 @@
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
         
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
-        "video": "https://youtu.be/nwd67E64VHk",
+        "video": "https://www.youtube.com/embed/nwd67E64VHk?si=S094mMXSRg4Smh1u",
         "video_bg":"img/nova/parkexecutive.jpeg",
 
         "slider_images": [
@@ -296,7 +304,7 @@
         "location": "Parklands",
         "price": "3500000",
         "bedrooms": 4,
-        "status": "Unfurnished",
+        "status": "Construction ongoing",
         "image": "img/nova/parkexecutive.jpeg",
         "houseType": "Duplex",
 
@@ -318,7 +326,7 @@
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
         
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
-        "video": "https://youtu.be/nwd67E64VHk",
+        "video": "https://www.youtube.com/embed/nwd67E64VHk?si=S094mMXSRg4Smh1u",
         "video_bg":"img/nova/parkexecutive.jpeg",
 
         "slider_images": [
@@ -333,7 +341,7 @@
         "location": "Parklands",
         "price": "3500000",
         "bedrooms": 2,
-        "status": "Unfurnished",
+        "status": "Construction ongoing",
         "image": "img/nova/parkexecutive.jpeg",
         "houseType": "Simplex Apartment",
 
@@ -355,7 +363,7 @@
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
         
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
-        "video": "https://youtu.be/nwd67E64VHk",
+        "video": "https://www.youtube.com/embed/nwd67E64VHk?si=S094mMXSRg4Smh1u",
         "video_bg":"img/nova/parkexecutive.jpeg",
 
         "slider_images": [
@@ -370,7 +378,7 @@
         "location": "South C",
         "price": "3500000",
         "bedrooms": 4,
-        "status": "Unfurnished",
+        "status": "Construction ongoing",
         "image": "img/nova/rodol.jpg",
         "houseType": "Apartment",
 
@@ -407,7 +415,7 @@
         "location": "South C",
         "price": "3500000",
         "bedrooms": 3,
-        "status": "Unfurnished",
+        "status": "Construction ongoing",
         "image": "img/nova/rodol.jpg",
         "houseType": "Apartment",
 
@@ -444,7 +452,7 @@
         "location": "South C",
         "price": "3500000",
         "bedrooms": 2,
-        "status": "Unfurnished",
+        "status": "Construction ongoing",
         "image": "img/nova/rodol.jpg",
         "houseType": "Apartment",
 
@@ -481,7 +489,7 @@
         "location": "Parklands",
         "price": "3500000",
         "bedrooms": 5,
-        "status": "Unfurnished",
+        "status": "Construction ongoing",
         "image": "img/nova/rodolduplex.jpg",
         "houseType": "Duplex",
 
@@ -518,7 +526,7 @@
         "location": "Parklands",
         "price": "3500000",
         "bedrooms": 3,
-        "status": "Unfurnished",
+        "status": "Construction ongoing",
         "image": "img/nova/rodolduplex.jpg",
         "houseType": "Apartment",
 
@@ -552,182 +560,79 @@
     },
     {
         "id": "16",
-        "title": "3 bedroom Apartment + DSQ -Rodol Heights",
-        "location": "Karen",
-        "price": "90000000",
-        "bedrooms": 6,
-        "status": "Completed",
-        "image": "img/product-3/2.jpg",
+        "title": "3 Bedroom  Royal Residency -Rodol 4th Street",
+        "location": "Eastleigh",
+        "price": "3500000",
+        "bedrooms": 3,
+        "status": "Construction ongoing",
+        "image": "img/nova/rodol4th.png",
+        "houseType": "Apartment",
+
         "category": "For Sale",
-        "date": "January 5, 2025",
-        "description": "A luxurious 6-bedroom villa in the serene and prestigious Karen suburb.",
+        "date": "May 16, 2024",
+        "description": "A luxurious 3-bedroom Royal Residency Apartment  in the serene and prestigious Rodol  in Eastleigh 4th street.",
         "features": {
-            "property_id": "HZ44",
-            "home_area": "600 sqm",
-            "rooms": 20,
-            "baths": 7,
-            "year_built": 2015,
-            "lot_area": "1000 sqm",
-            "lot_dimensions": "40m x 50m",
-            "bedrooms": "6",
-            "price": "90,000,000 KES",
-            "property_status": "For Sale"
+            "property_id": " 31520",
+            "home_area": "110 sqm",
+            "rooms": 3,
+            "baths": 2,
+            "year_built": 2023,
+            "lot_area": "110 sqm",
+            "lot_dimensions": "NA",
+            "bedrooms": "3",
+            "price": "3,500,000 KES",
+            "property_status": "Apartment"
         },
-        "amenities": ["Gym", "Swimming Pool", "WiFi", "Refrigerator", "24x7 Security"],
-       
-        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
-        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
-        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
+        "amenities": ["Dedicated prayer room","Kids play area","Ample parking","Solar panels",  "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
+        
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.834960236603!2d36.84712457568994!3d-1.2721147356122844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f17d4e8b5105d%3A0x4be057413fdf1b93!2z8J2XpfCdl6LwnZeX8J2XovCdl58g8J2fsPCdl6fwnZebIPCdl6bwnZen8J2XpfCdl5jwnZeY8J2Xpw!5e0!3m2!1sen!2ske!4v1743060076918!5m2!1sen!2ske" ,
+        "video": "https://youtu.be/nLOBIjoxqRA",
+        "video_bg":"img/nova/rodolduplex.jpg",
 
         "slider_images": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+            "img/nova/rod44.png",
+            "img/nova/rodol4thstreet.png",
+            "img/nova/rodol44.png",
+            "img/nova/rodoleast.png"
         ]
     },
     {
         "id": "17",
-        "title": "South B Cozy Apartments",
-        "location": "South B",
-        "price": "12000000",
+        "title": "2 Bedroom  Royal Residency -Rodol 4th Street",
+        "location": "Eastleigh",
+        "price": "3500000",
         "bedrooms": 2,
-        "status": "Furnished",
-        "image": "img/product-3/2.jpg",
+        "status": "Construction ongoing",
+        "image": "img/nova/rodol4th.png",
+        "houseType": "Apartment",
+
         "category": "For Sale",
-        "date": "December 28, 2024",
-        "description": "2-bedroom furnished apartment with a modern touch, located in South B.",
+        "date": "May 16, 2024",
+        "description": "A luxurious 2-bedroom Royal Residency Apartment  in the serene and prestigious Rodol  in Eastleigh 4th street.",
         "features": {
-            "property_id": "HZ45",
-            "home_area": "150 sqm",
-            "rooms": 5,
+            "property_id": " 31519",
+            "home_area": "85 sqm",
+            "rooms": 2,
             "baths": 2,
-            "year_built": 2022,
-            "lot_area": "200 sqm",
-            "lot_dimensions": "12m x 15m",
-            "bedrooms": "2",
-            "price": "12,000,000 KES",
-            "property_status": "For Sale"
-        },
-        "amenities": ["Gym", "WiFi", "Refrigerator", "Air Conditioning", "Microwave"],
-       
-        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
-        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
-        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
-
-        "slider_images": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
-        ]
-    },
-    {
-        "id": "18",
-        "title": "Pangani Luxury Maisonette",
-        "location": "Pangani",
-        "price": "30000000",
-        "bedrooms": 4,
-        "status": "Unfurnished",
-        "image": "img/product-3/2.jpg",
-        "category": "For Sale",
-        "date": "December 20, 2024",
-        "description": "Spacious and modern 4-bedroom maisonette in Pangani, perfect for families.",
-        "features": {
-            "property_id": "HZ46",
-            "home_area": "400 sqm",
-            "rooms": 10,
-            "baths": 4,
-            "year_built": 2019,
-            "lot_area": "600 sqm",
-            "lot_dimensions": "20m x 30m",
-            "bedrooms": "4",
-            "price": "30,000,000 KES",
-            "property_status": "For Sale"
-        },
-        "amenities": ["Swimming Pool", "Gym", "WiFi", "Refrigerator", "24x7 Security"],
-        
-        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
-        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
-        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/others/16.jpg",
-
-        "slider_images": [
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
-        ]
-    },
-    {
-        "id": "19",
-        "title": "Riverside Skyline Apartments",
-        "location": "Riverside",
-        "price": "15000000",
-        "bedrooms": 3,
-        "status": "Furnished",
-        "image": "img/product-3/2.jpg",
-        "category": "For Sale",
-        "date": "December 15, 2024",
-        "description": "3-bedroom furnished apartment in Riverside with modern amenities and easy access to the CBD.",
-        "features": {
-            "property_id": "HZ47",
-            "home_area": "180 sqm",
-            "rooms": 7,
-            "baths": 3,
-            "year_built": 2020,
-            "lot_area": "250 sqm",
-            "lot_dimensions": "15m x 20m",
+            "year_built": 2023,
+            "lot_area": "85 sqm",
+            "lot_dimensions": "NA",
             "bedrooms": "3",
-            "price": "15,000,000 KES",
-            "property_status": "For Sale"
+            "price": "3,500,000 KES",
+            "property_status": "Apartment"
         },
-        "amenities": ["WiFi", "Swimming Pool", "Air Conditioning", "24x7 Security", "Refrigerator"],
-       
-        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
-        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
-        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
-
-        "slider_images": [
-           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
-        ]
-    },
-    {
-        "id": "20",
-        "title": "Parklands Premium Apartments",
-        "location": "Parklands",
-        "price": "22000000",
-        "bedrooms": 2,
-        "status": "Unfurnished",
-        "image": "img/product-3/2.jpg",
-        "category": "For Sale",
-        "date": "December 10, 2024",
-        "description": "2-bedroom apartment in Parklands with luxurious features and modern interiors.",
-        "features": {
-            "property_id": "HZ48",
-            "home_area": "160 sqm",
-            "rooms": 6,
-            "baths": 2,
-            "year_built": 2021,
-            "lot_area": "200 sqm",
-            "lot_dimensions": "12m x 18m",
-            "bedrooms": "2",
-            "price": "22,000,000 KES",
-            "property_status": "For Sale"
-        },
-        "amenities": ["WiFi", "Gym", "Refrigerator", "Air Conditioning", "Swimming Pool"],
+        "amenities": ["Dedicated prayer room","Ample parking",  "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception",  "Borehole", "24x7 Security"],
         
-        "location_map": "https://www.google.com/maps/embed?pb=!1m18...",
-        "video": "https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&showinfo=0",
-        "video_bg":"https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.834960236603!2d36.84712457568994!3d-1.2721147356122844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f17d4e8b5105d%3A0x4be057413fdf1b93!2z8J2XpfCdl6LwnZeX8J2XovCdl58g8J2fsPCdl6fwnZebIPCdl6bwnZen8J2XpfCdl5jwnZeY8J2Xpw!5e0!3m2!1sen!2ske!4v1743060076918!5m2!1sen!2ske" ,
+        "video": "https://youtu.be/nLOBIjoxqRA",
+        "video_bg":"img/nova/rodolduplex.jpg",
 
         "slider_images": [
-           "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/35.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/31.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/32.jpg",
-            "https://tunatheme.com/tf/html/quarter-preview/quarter/img/img-slide/33.jpg"
+            "img/nova/rod44.png",
+            "img/nova/rodol4thstreet.png",
+            "img/nova/rodl4.png",
+            "img/nova/rodoleast.png"
         ]
     }
+    
 ]
