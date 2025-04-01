@@ -25,6 +25,9 @@
             "property_status": "Duplex + DSQ"
         },
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
+        "gallery": [
+          "img/nova/planpay.png"
+      ],
         "location_map": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3988.8090192382765!2d36.79724137536864!3d-1.2887853781518335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skibiria%20lenana%20road%20hurlingham!5e0!3m2!1sen!2ske!4v1742905053944!5m2!1sen!2ske",
         "video": "https://www.youtube.com/embed/ZdIlhwGVlGw?si=2v9saiNKu8CikJOW" ,
         "video_bg":"img/nova/novaa.jpeg",
@@ -65,6 +68,7 @@
         "location_map": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3988.8090192382765!2d36.79724137536864!3d-1.2887853781518335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skibiria%20lenana%20road%20hurlingham!5e0!3m2!1sen!2ske!4v1742905053944!5m2!1sen!2ske",
         "video": "https://www.youtube.com/embed/ZdIlhwGVlGw?si=2v9saiNKu8CikJOW" ,
         "video_bg":"img/nova/novaa.jpeg",
+      
 
         "slider_images": [
             "img/nova/nova6bed.png",

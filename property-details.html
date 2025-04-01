@@ -309,9 +309,9 @@
                             </div>
                             
 
-                            <!-- <h4 class="title-2">From Our Gallery</h4>
+                            <h4 class="title-2">Payment Plan</h4>
                             <div class="ltn__property-details-gallery mb-30" id="property-gallery">
-                            </div> -->
+                            </div>
 
                             <h4 class="title-2">Location</h4>
                             <div class="property-details-google-map mb-60">
@@ -803,35 +803,32 @@
             });
 
             // Populate Gallery
-            // const galleryContainer = document.getElementById('property-gallery');
-            // galleryContainer.innerHTML = ""; 
-            // if (property.gallery.length >= 3) {
-            //     let rowDiv = document.createElement('div');
-            //     rowDiv.classList.add('row');
+            const galleryContainer = document.getElementById('property-gallery');
+galleryContainer.innerHTML = ""; // Clear the gallery container
 
-            //     let colLeft = document.createElement('div');
-            //     colLeft.classList.add('col-md-6');
-            //     for (let i = 0; i < 2; i++) {
-            //         let galleryItem = document.createElement('a');
-            //         galleryItem.href = property.gallery[i];
-            //         galleryItem.setAttribute('data-rel', 'lightcase:myCollection');
-            //         galleryItem.innerHTML = `<img class="mb-30" src="${property.gallery[i]}" alt="Gallery Image" style="width: 740px; height: 352px; object-fit: cover;">`;
-            //         colLeft.appendChild(galleryItem);
-            //     }
+// Check if there is at least one image in the gallery
+if (property.gallery.length > 0) {
+    let rowDiv = document.createElement('div');
+    rowDiv.classList.add('row');
 
-            //     let colRight = document.createElement('div');
-            //     colRight.classList.add('col-md-6');
-            //     let galleryItem = document.createElement('a');
-            //     galleryItem.href = property.gallery[2];
-            //     galleryItem.setAttribute('data-rel', 'lightcase:myCollection');
-            //     galleryItem.innerHTML = `<img class="mb-30" src="${property.gallery[2]}" alt="Gallery Image" style="width: 740px; height: 400px; object-fit: cover;">`;
-            //     colRight.appendChild(galleryItem);
+    let colLeft = document.createElement('div');
+    colLeft.classList.add('col-md-12');
 
-            //     rowDiv.appendChild(colLeft);
-            //     rowDiv.appendChild(colRight);
+    // Create the gallery item for the first image
+    let galleryItem = document.createElement('a');
+    galleryItem.href = property.gallery[0]; // Use the first image in the gallery
+    galleryItem.setAttribute('data-rel', 'lightcase:myCollection');
+    galleryItem.innerHTML = `<img class="mb-30" src="${property.gallery[0]}" alt="Gallery Image" >`;
+    
+    // Append the image to the column
+    colLeft.appendChild(galleryItem);
 
-            //     galleryContainer.appendChild(rowDiv);
-            // }
+    // Append the column to the row
+    rowDiv.appendChild(colLeft);
+
+    // Append the row to the gallery container
+    galleryContainer.appendChild(rowDiv);
+}
 
 
             // Set Video Link
