@@ -1,119 +1,129 @@
 [
     {
         "id": "1",
-        "title": "5 Bedroom Duplex+DSQ – Nova 2",
-        "location": "Hurlingham",
-        "price": "24000",
-        "bedrooms": 5,
-        "status": "Completed",
-        "image": "img/nova/novaa.jpeg",
-        "houseType": "Duplex",
+        "title": "4 bedroom apartment + DSQ -Rodol Heights 2",
+        "location": "South C",
+        "price": "",
+        "bedrooms": 4,
+        "status": "Construction ongoing",
+        "image": "img/nova/rodol2heights.jpg",
+        "houseType": "Apartment",
 
-        "category": "Featured, For Rent",
-        "date": "June 22, 2023",
-        "description": "A luxurious 5-bedroom Duplex + DSQ in the serene and prestigious Nova 2 apartments in Hurlingham.",
+        "category": "For Rent",
+        "date": "May 14, 2024",
+        "description": "A luxurious 4-bedroom apartment + DSQ in the serene and prestigious Rodol Heights 2 in Ole Shapara Avenue, South C",
         "features": {
-            "property_id": "31361",
-            "home_area": "307 sqm",
-            "rooms": 6,
-            "baths": 5,
-            "year_built": 2023,
-            "lot_area": "307 sqm",
+            "property_id": "31357",
+            "home_area": "178 sqm",
+            "rooms": 4,
+            "baths": 4,
+            "year_built": 2024,
+            "lot_area": "178 sqm",
             "lot_dimensions": "NA",
-            "bedrooms": 5,
-            "price": "24000",
-            "property_status": "Duplex + DSQ"
+            "bedrooms": "4",
+            "price": "",
+            "property_status": " Apartment"
         },
-        "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
-        "location_map": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3988.8090192382765!2d36.79724137536864!3d-1.2887853781518335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skibiria%20lenana%20road%20hurlingham!5e0!3m2!1sen!2ske!4v1742905053944!5m2!1sen!2ske",
-        "video": "https://www.youtube.com/embed/ZdIlhwGVlGw?si=2v9saiNKu8CikJOW" ,
-        "video_bg":"img/nova/novaa.jpeg",
+        "amenities": ["Dedicated prayer room","Ample parking","27/7 security","Solar panels",  "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
+        
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7697512780123!2d36.82454587569006!3d-1.3136180356580962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f11df2e00695f%3A0x9e1ce6283f66d1a1!2sOle%20Shapara%20Avenue%20South%20C!5e0!3m2!1sen!2ske!4v1742986955521!5m2!1sen!2ske" ,
+        "video": "https://www.youtube.com/embed/l7m0XHvg4ZU?si=k-RVbq5oLOXdR9p2",
+        "video_bg":"img/nova/rodol2heights.jpg",
+        "gallery": [
+            "img/nova/rodolheight2payment.png"
+        ],
 
         "slider_images": [
-            "img/nova/nova23.png",
-            "img/nova/nova.png",
-            "img/nova/nova30.png"
+            "img/nova/rod2heights6.png",
+            "img/nova/rodol2heights1.png",
+            "img/nova/rodol2heights3.png"
         ]
     },
     {
         "id": "2",
-        "title": "6 Bedroom Penthouse +DSQ -Nova 2",
-        "location": "Hurlingham",
-        "price": "50000000",
-        "bedrooms": 6,
-        "status": "Completed",
-        "image": "img/nova/novaa.jpeg",
-        "houseType": "Penthouse",
+        "title": "3 bedroom apartment + DSQ -Rodol Heights 2",
+        "location": "South C",
+        "price": "",
+        "bedrooms": 3,
+        "status": "Construction ongoing",
+        "image": "img/nova/rodol2heights.jpg",
+        "houseType": "Apartment",
 
-        "category": "Featured, For Rent",
-        "date": "Junes 22, 2023",
-        "description": "A luxurious 6-bedroom penthouse in the serene and prestigious Nova 2 apartments in Hurlingham.",
+        "category": "For Rent",
+        "date": "May 14, 2024",
+        "description": "A luxurious 3-bedroom apartment + DSQ in the serene and prestigious Rodol Heights 2 in Ole Shapara Avenue, South C",
         "features": {
-            "property_id": "31362",
-            "home_area": "481 sqm",
-            "rooms": 7,
-            "baths": 6,
-            "year_built": 2023,
-            "lot_area": "600 sqm",
-            "lot_dimensions": "15m x 25m",
-            "bedrooms": "6",
-            "price": "5,000,000 KES",
-            "property_status": "Penthouse + DSQ"
+            "property_id": "31355",
+            "home_area": "152 sqm",
+            "rooms": 3,
+            "baths": 3,
+            "year_built": 2024,
+            "lot_area": "152 sqm",
+            "lot_dimensions": "NA",
+            "bedrooms": "3",
+            "price": "",
+            "property_status": " Apartment"
         },
-        "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
-       
-        "location_map": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3988.8090192382765!2d36.79724137536864!3d-1.2887853781518335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skibiria%20lenana%20road%20hurlingham!5e0!3m2!1sen!2ske!4v1742905053944!5m2!1sen!2ske",
-        "video": "https://www.youtube.com/embed/ZdIlhwGVlGw?si=2v9saiNKu8CikJOW" ,
-        "video_bg":"img/nova/novaa.jpeg",
+        "amenities": ["Dedicated prayer room","Ample parking","27/7 security","Solar panels",  "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
+        
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7697512780123!2d36.82454587569006!3d-1.3136180356580962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f11df2e00695f%3A0x9e1ce6283f66d1a1!2sOle%20Shapara%20Avenue%20South%20C!5e0!3m2!1sen!2ske!4v1742986955521!5m2!1sen!2ske" ,
+        "video": "https://www.youtube.com/embed/l7m0XHvg4ZU?si=k-RVbq5oLOXdR9p2",
+        "video_bg":"img/nova/rodol2heights.jpg",
+        "gallery": [
+            "img/nova/rodolheight2payment.png"
+        ],
 
         "slider_images": [
-            "img/nova/nova6bed.png",
-            "img/nova/nova23.png",
-            "img/nova/nova24.png",
-            "img/nova/nova25.png"
+            "img/nova/rod2heights6.png",
+            "img/nova/rodol2heights1.png",
+            "img/nova/rodol2heights5.png"
         ]
     },
     {
         "id": "3",
-       "title": "4 Bedroom Apartment -Nova 2",
-        "location": "Hurlingham",
-        "price": "24000",
-        "bedrooms": 5,
-        "status": "Completed",
-        "image": "img/nova/novaa.jpeg",
+        "title": "2 bedroom apartment + DSQ -Rodol Heights 2",
+        "location": "South C",
+        "price": "",
+        "bedrooms": 2,
+        "status": "Construction ongoing",
+        "image": "img/nova/rodol2heights.jpg",
         "houseType": "Apartment",
 
-        "category": "Featured, For Rent",
-        "date": "June 22, 2023",
-        "description": "A luxurious 4-bedroom Apartment in the serene and prestigious Nova 2 apartments in Hurlingham.",
+        "category": "For Rent",
+        "date": "May 14, 2024",
+        "description": "A luxurious 2-bedroom apartment + DSQ in the serene and prestigious Rodol Heights 2 in Ole Shapara Avenue, South C",
         "features": {
-            "property_id": "31360",
-            "home_area": "307 sqm",
-            "rooms": 5,
-            "baths": 4,
-            "year_built": 2023,
-            "lot_area": "240 sqm",
+            "property_id": "31355",
+            "home_area": "97 sqm",
+            "rooms": 2,
+            "baths": 2,
+            "year_built": 2024,
+            "lot_area": "152 sqm",
             "lot_dimensions": "NA",
-            "bedrooms": 4,
-            "price": "24000",
-            "property_status": "Apartment"
+            "bedrooms": "2",
+            "price": "",
+            "property_status": " Apartment"
         },
-        "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
-        "video": "https://www.youtube.com/embed/ZdIlhwGVlGw?si=2v9saiNKu8CikJOW" ,
-        "video_bg":"img/nova/novaa.jpeg",
-        "location_map": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3988.8090192382765!2d36.79724137536864!3d-1.2887853781518335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skibiria%20lenana%20road%20hurlingham!5e0!3m2!1sen!2ske!4v1742905053944!5m2!1sen!2ske",
+        "amenities": ["Dedicated prayer room","Ample parking","27/7 security","Solar panels",  "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
+        
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7697512780123!2d36.82454587569006!3d-1.3136180356580962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f11df2e00695f%3A0x9e1ce6283f66d1a1!2sOle%20Shapara%20Avenue%20South%20C!5e0!3m2!1sen!2ske!4v1742986955521!5m2!1sen!2ske" ,
+        "video": "https://www.youtube.com/embed/l7m0XHvg4ZU?si=k-RVbq5oLOXdR9p2",
+        "video_bg":"img/nova/rodol2heights.jpg",
+        "gallery": [
+            "img/nova/rodolheight2payment.png"
+        ],
+
         "slider_images": [
-            "img/nova/nova26.png",
-            "img/nova/nova27.png",
-            "img/nova/nova29.png",
-            "img/nova/nova23.png"
+            "img/nova/rod2heights6.png",
+            "img/nova/rodol2heights1.png",
+            "img/nova/rodol2heights4.png"
         ]
     },
     {
         "id": "4",
         "title": "4 Bedroom +DSQ -Nova 3",
         "location": "Parklands",
-        "price": "3500000",
+        "price": "",
         "bedrooms": 4,
         "status": "Construction ongoing",
         "image": "img/nova/nova3-1.jpg",
@@ -131,7 +141,7 @@
             "lot_area": "220 sqm",
             "lot_dimensions": "NA",
             "bedrooms": "4",
-            "price": "3,500,000 KES",
+            "price": "",
             "property_status": "Apartment"
         },
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
@@ -139,6 +149,9 @@
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
         "video": "https://www.youtube.com/embed/vZ8SIN1jOUU?si=hTPphuZxwQZcZL4B",
         "video_bg":"img/nova/nova3-1.jpg",
+        "gallery": [
+            "img/nova/nova3payment.png"
+        ],
 
         "slider_images": [
             "img/nova/nova3 4bed.png",
@@ -150,7 +163,7 @@
         "id": "5",
         "title": "5 Bedroom +DSQ -Nova 3",
         "location": "Parklands",
-        "price": "3500000",
+        "price": "",
         "bedrooms": 5,
         "status": "Construction ongoing",
         "image": "img/nova/nova3-1.jpg",
@@ -168,7 +181,7 @@
             "lot_area": "235 sqm",
             "lot_dimensions": "NA",
             "bedrooms": "5",
-            "price": "3,500,000 KES",
+            "price": "",
             "property_status": "Apartment"
         },
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
@@ -176,6 +189,9 @@
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
         "video": "https://www.youtube.com/embed/vZ8SIN1jOUU?si=hTPphuZxwQZcZL4B",
         "video_bg":"img/nova/nova3-1.jpg",
+        "gallery": [
+            "img/nova/nova3payment.png"
+        ],
 
         "slider_images": [
             "img/nova/novA3 5B.png",
@@ -188,7 +204,7 @@
         "id": "6",
        "title": "3 Bedroom +DSQ -Nova 3",
         "location": "Parklands",
-        "price": "3500000",
+        "price": "",
         "bedrooms": 3,
         "status": "Construction ongoing",
         "image": "img/nova/nova3-1.jpg",
@@ -206,7 +222,7 @@
             "lot_area": "172 sqm",
             "lot_dimensions": "NA",
             "bedrooms": "3",
-            "price": "3,500,000 KES",
+            "price": "",
             "property_status": "Apartment"
         },
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
@@ -214,6 +230,9 @@
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
         "video": "https://www.youtube.com/embed/vZ8SIN1jOUU?si=hTPphuZxwQZcZL4B",
         "video_bg":"img/nova/nova3-1.jpg",
+        "gallery": [
+            "img/nova/nova3payment.png"
+        ],
 
         "slider_images": [
             "img/nova/NOVA33BED.png",
@@ -227,7 +246,7 @@
         "id": "7",
        "title": "2 Bedroom +DSQ -Nova 3",
         "location": "Parklands",
-        "price": "3500000",
+        "price": "",
         "bedrooms": 2,
         "status": "Construction ongoing",
         "image": "img/nova/nova3-1.jpg",
@@ -245,7 +264,7 @@
             "lot_area": "127 sqm",
             "lot_dimensions": "NA",
             "bedrooms": "2",
-            "price": "3,500,000 KES",
+            "price": "",
             "property_status": "Apartment"
         },
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Refrigerator", "24x7 Security"],
@@ -253,6 +272,9 @@
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
         "video": "https://www.youtube.com/embed/vZ8SIN1jOUU?si=hTPphuZxwQZcZL4B",
         "video_bg":"img/nova/nova3-1.jpg",
+        "gallery": [
+            "img/nova/nova3payment.png"
+        ],
 
         "slider_images": [
             "img/nova/nova2bed.png",
@@ -263,120 +285,169 @@
     },
     {
         "id": "8",
-        "title": "5 Bedroom Duplex +DSQ -Parklands Executive Suite",
+        "title": "5 Bedroom +DSQ- Rodol Diamond",
         "location": "Parklands",
-        "price": "3500000",
+        "price": "",
         "bedrooms": 5,
         "status": "Construction ongoing",
-        "image": "img/nova/parkexecutive.jpeg",
-        "houseType": "Duplex",
-
-        "category": "For Rent",
-        "date": "July 3, 2023",
-        "description": "A luxurious 5-bedroom apartment + DSQ in the serene and prestigious Parklands Executive Suite in Parklands 3rd Avenue.",
-        "features": {
-            "property_id": "30727",
-            "home_area": "263 sqm",
-            "rooms": 6,
-            "baths": 5,
-            "year_built": 2023,
-            "lot_area": "263 sqm",
-            "lot_dimensions": "NA",
-            "bedrooms": "5",
-            "price": "3,500,000 KES",
-            "property_status": "Duplex + DSQ"
-        },
-        "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
-        
-        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
-        "video": "https://www.youtube.com/embed/nwd67E64VHk?si=S094mMXSRg4Smh1u",
-        "video_bg":"img/nova/parkexecutive.jpeg",
-
-        "slider_images": [
-            "img/nova/parkexecutive.png",
-            "img/nova/parkexec.png",
-            "img/nova/park.png"
-        ]
-    },
-    {
-        "id": "9",
-       "title": "4 Bedroom Apartment -Parklands Executive Suite",
-        "location": "Parklands",
-        "price": "3500000",
-        "bedrooms": 4,
-        "status": "Construction ongoing",
-        "image": "img/nova/parkexecutive.jpeg",
+        "image": "img/diamond/rodol diamond.png",
         "houseType": "Apartment",
 
         "category": "For Rent",
         "date": "July 3, 2023",
-        "description": "A luxurious 4-bedroom apartment  in the serene and prestigious Parklands Executive Suite in Parklands 3rd Avenue.",
+        "description": "A luxurious 5-bedroom apartment + DSQ in the serene and prestigious Parklands Executive Suite in Parklands 5th Avenue 531 Iregi Rd.",
         "features": {
-            "property_id": "30727",
-            "home_area": "196 sqm",
+            "property_id": "30888",
+            "home_area": "242 sqm",
             "rooms": 5,
-            "baths": 4,
+            "baths": 5,
             "year_built": 2023,
-            "lot_area": "196 sqm",
+            "lot_area": "242 sqm",
             "lot_dimensions": "NA",
-            "bedrooms": "4",
-            "price": "3,500,000 KES",
+            "bedrooms": "5",
+            "price": "",
             "property_status": "Apartment"
         },
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
         
-        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
-        "video": "https://www.youtube.com/embed/nwd67E64VHk?si=S094mMXSRg4Smh1u",
-        "video_bg":"img/nova/parkexecutive.jpeg",
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8585572067636!2d36.81971407568979!3d-1.25675843559605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171cd7e818cd%3A0x6ee207e7d369ec66!2s531%20Iregi%20Rd%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1743597074832!5m2!1sen!2ske" ,
+        "video": "https://www.youtube.com/embed/PA3GP-WhoP0?si=6ret9aAkjFLy7WQa",
+        "video_bg":"img/diamond/diamond.png",
+        "gallery": [
+            "img/diamond/diamond payment.png"
+        ],
 
         "slider_images": [
-            "img/nova/parkexecutive.png",
-            "img/nova/parkexe.png",
-            "img/nova/park.png"
+            "img/diamond/diamond1.png",
+            "img/diamond/rodoldiamond1.png",
+            "img/diamond/diamond2.png"
         ]
     },
     {
-        "id": "10",
-        "title": "2 bedroom simplex apartment  -Parklands Executive Suite",
-        "location": "Parklands",
-        "price": "3500000",
-        "bedrooms": 2,
-        "status": "Construction ongoing",
-        "image": "img/nova/parkexecutive.jpeg",
-        "houseType": "Simplex",
+        "id": "9",
+       "title": "4 Bedroom +DSQ- Rodol Diamond",
+       "location": "Parklands",
+       "price": "",
+       "bedrooms": 4,
+       "status": "Construction ongoing",
+       "image": "img/diamond/rodol diamond.png",
+       "houseType": "Apartment",
 
-        "category": "For Rent",
-        "date": "July 3, 2023",
-        "description": "A luxurious 2-bedroom simplex apartment  in the serene and prestigious Parklands Executive Suite in Parklands 3rd Avenue.",
-        "features": {
-            "property_id": "30727",
-            "home_area": "128 sqm",
-            "rooms": 3,
-            "baths": 2,
-            "year_built": 2023,
-            "lot_area": "128 sqm",
-            "lot_dimensions": "NA",
-            "bedrooms": "2",
-            "price": "3,500,000 KES",
-            "property_status": "Simplex Apartment"
-        },
-        "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
-        
-        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
-        "video": "https://www.youtube.com/embed/nwd67E64VHk?si=S094mMXSRg4Smh1u",
-        "video_bg":"img/nova/parkexecutive.jpeg",
+       "category": "For Rent",
+       "date": "July 3, 2023",
+       "description": "A luxurious 4-bedroom apartment + DSQ in the serene and prestigious Parklands Executive Suite in Parklands 5th Avenue 531 Iregi Rd.",
+       "features": {
+           "property_id": "30889",
+           "home_area": "215 sqm",
+           "rooms": 4,
+           "baths": 4,
+           "year_built": 2023,
+           "lot_area": "215 sqm",
+           "lot_dimensions": "NA",
+           "bedrooms": "4",
+           "price": "",
+           "property_status": "Apartment"
+       },
+       "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
+       
+       "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8585572067636!2d36.81971407568979!3d-1.25675843559605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171cd7e818cd%3A0x6ee207e7d369ec66!2s531%20Iregi%20Rd%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1743597074832!5m2!1sen!2ske" ,
+       "video": "https://www.youtube.com/embed/PA3GP-WhoP0?si=GibkzBqSN6LX_HB6",
+       "video_bg":"img/diamond/diamond.png",
+       "gallery": [
+           "img/diamond/diamond payment.png"
+       ],
 
-        "slider_images": [
-            "img/nova/parkexecutive.png",
-            "img/nova/parkexe.png",
-            "img/nova/park.png"
-        ]
-    },
+       "slider_images": [
+           "img/diamond/diamond1.png",
+           "img/diamond/rodoldiamond1.png",
+           "img/diamond/diamond3.png"
+       ]
+   },
+   {
+    "id": "10",
+   "title": "3 Bedroom +DSQ- Rodol Diamond",
+   "location": "Parklands",
+   "price": "",
+   "bedrooms": 3,
+   "status": "Construction ongoing",
+   "image": "img/diamond/rodol diamond.png",
+   "houseType": "Apartment",
+
+   "category": "For Rent",
+   "date": "July 3, 2023",
+   "description": "A luxurious 3-bedroom apartment + DSQ in the serene and prestigious Parklands Executive Suite in Parklands 5th Avenue 531 Iregi Rd.",
+   "features": {
+       "property_id": "30889",
+       "home_area": "164 sqm",
+       "rooms": 3,
+       "baths": 3,
+       "year_built": 2023,
+       "lot_area": "164 sqm",
+       "lot_dimensions": "NA",
+       "bedrooms": "3",
+       "price": "",
+       "property_status": "Apartment"
+   },
+   "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
+   
+   "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8585572067636!2d36.81971407568979!3d-1.25675843559605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171cd7e818cd%3A0x6ee207e7d369ec66!2s531%20Iregi%20Rd%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1743597074832!5m2!1sen!2ske" ,
+   "video": "https://www.youtube.com/embed/PA3GP-WhoP0?si=_uG_xOvUkvadwFis",
+   "video_bg":"img/diamond/diamond.png",
+   "gallery": [
+       "img/diamond/diamond payment.png"
+   ],
+
+   "slider_images": [
+       "img/diamond/diamond1.png",
+       "img/diamond/rodoldiamond1.png",
+       "img/diamond/diamond5.png"
+   ]
+},
+{
+    "id": "11",
+   "title": "2 Bedroom +DSQ- Rodol Diamond",
+   "location": "Parklands",
+   "price": "",
+   "bedrooms": 2,
+   "status": "Construction ongoing",
+   "image": "img/diamond/rodol diamond.png",
+   "houseType": "Apartment",
+
+   "category": "For Rent",
+   "date": "July 3, 2023",
+   "description": "A luxurious 2-bedroom apartment + DSQ in the serene and prestigious Parklands Executive Suite in Parklands 5th Avenue 531 Iregi Rd.",
+   "features": {
+       "property_id": " 30891",
+       "home_area": "127 sqm",
+       "rooms": 2,
+       "baths": 2,
+       "year_built": 2023,
+       "lot_area": "127 sqm",
+       "lot_dimensions": "NA",
+       "bedrooms": "2",
+       "price": "",
+       "property_status": "Apartment"
+   },
+   "amenities": ["Dedicated prayer room","Kids play area","Ample parking","27/7 security","Solar panels", "Gym", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
+   
+   "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8585572067636!2d36.81971407568979!3d-1.25675843559605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171cd7e818cd%3A0x6ee207e7d369ec66!2s531%20Iregi%20Rd%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1743597074832!5m2!1sen!2ske" ,
+   "video": "https://www.youtube.com/embed/PA3GP-WhoP0?si=gNMckbzl-4aybo4I",
+   "video_bg":"img/diamond/diamond.png",
+   "gallery": [
+       "img/diamond/diamond payment.png"
+   ],
+
+   "slider_images": [
+       "img/diamond/diamond4.png",
+       "img/diamond/rodoldiamond1.png",
+       "img/diamond/diamond3.png"
+   ]
+},
     {
-        "id": "11",
+        "id": "12",
         "title": "4 bedroom apartment + DSQ -Rodol Heights",
         "location": "South C",
-        "price": "3500000",
+        "price": "",
         "bedrooms": 4,
         "status": "Construction ongoing",
         "image": "img/nova/rodol.jpg",
@@ -394,7 +465,7 @@
             "lot_area": "178 sqm",
             "lot_dimensions": "NA",
             "bedrooms": "4",
-            "price": "3,500,000 KES",
+            "price": "",
             "property_status": " Apartment"
         },
         "amenities": ["Dedicated prayer room","Ample parking","27/7 security","Solar panels",  "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
@@ -402,6 +473,9 @@
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7697512780123!2d36.82454587569006!3d-1.3136180356580962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f11df2e00695f%3A0x9e1ce6283f66d1a1!2sOle%20Shapara%20Avenue%20South%20C!5e0!3m2!1sen!2ske!4v1742986955521!5m2!1sen!2ske" ,
         "video": "https://youtu.be/l7m0XHvg4ZU",
         "video_bg":"img/nova/rodol.jpg",
+        "gallery": [
+            "img/nova/rodolheightssouthC.png"
+        ],
 
         "slider_images": [
             "img/nova/rodol3.png",
@@ -410,10 +484,10 @@
         ]
     },
     {
-        "id": "12",
+        "id": "13",
         "title": "3 bedroom apartment + DSQ -Rodol Heights",
         "location": "South C",
-        "price": "3500000",
+        "price": "",
         "bedrooms": 3,
         "status": "Construction ongoing",
         "image": "img/nova/rodol.jpg",
@@ -431,7 +505,7 @@
             "lot_area": "152 sqm",
             "lot_dimensions": "NA",
             "bedrooms": "3",
-            "price": "3,500,000 KES",
+            "price": "",
             "property_status": " Apartment"
         },
         "amenities": ["Dedicated prayer room","Ample parking","27/7 security","Solar panels",  "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
@@ -439,6 +513,9 @@
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7697512780123!2d36.82454587569006!3d-1.3136180356580962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f11df2e00695f%3A0x9e1ce6283f66d1a1!2sOle%20Shapara%20Avenue%20South%20C!5e0!3m2!1sen!2ske!4v1742986955521!5m2!1sen!2ske" ,
         "video": "https://youtu.be/l7m0XHvg4ZU",
         "video_bg":"img/nova/rodol.jpg",
+        "gallery": [
+            "img/nova/rodolheightssouthC.png"
+        ],
 
         "slider_images": [
             "img/nova/rodol4.png",
@@ -447,10 +524,10 @@
         ]
     },
     {
-        "id": "13",
+        "id": "14",
         "title": "2 bedroom apartment + DSQ -Rodol Heights",
         "location": "South C",
-        "price": "3500000",
+        "price": "",
         "bedrooms": 2,
         "status": "Construction ongoing",
         "image": "img/nova/rodol.jpg",
@@ -468,7 +545,7 @@
             "lot_area": "97 sqm",
             "lot_dimensions": "NA",
             "bedrooms": "2",
-            "price": "3,500,000 KES",
+            "price": "",
             "property_status": " Apartment"
         },
         "amenities": ["Dedicated prayer room","Ample parking","27/7 security","Solar panels",  "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
@@ -476,6 +553,9 @@
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7697512780123!2d36.82454587569006!3d-1.3136180356580962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f11df2e00695f%3A0x9e1ce6283f66d1a1!2sOle%20Shapara%20Avenue%20South%20C!5e0!3m2!1sen!2ske!4v1742986955521!5m2!1sen!2ske" ,
         "video": "https://youtu.be/l7m0XHvg4ZU",
         "video_bg":"img/nova/rodol.jpg",
+        "gallery": [
+            "img/nova/rodolheightssouthC.png"
+        ],
 
         "slider_images": [
             "img/nova/rodol6.png",
@@ -484,10 +564,10 @@
         ]
     },
     {
-        "id": "14",
+        "id": "15",
        "title": "5 Bedroom Duplex +DSQ- Rodol Duplex",
         "location": "Parklands",
-        "price": "3500000",
+        "price": "",
         "bedrooms": 5,
         "status": "Construction ongoing",
         "image": "img/nova/rodolduplex.jpg",
@@ -505,7 +585,7 @@
             "lot_area": "285 sqm",
             "lot_dimensions": "NA",
             "bedrooms": "5",
-            "price": "3,500,000 KES",
+            "price": "",
             "property_status": "Duplex"
         },
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","Solar panels",  "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
@@ -513,6 +593,9 @@
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
         "video": "https://youtu.be/Tf6Y1hiX2Mg",
         "video_bg":"img/nova/rodolduplex.jpg",
+        "gallery": [
+            "img/nova/nova3payment.png"
+        ],
 
         "slider_images": [
             "img/nova/rodoldup4.png",
@@ -521,10 +604,10 @@
         ]
     },
     {
-        "id": "15",
+        "id": "16",
         "title": "3 bedroom Apartment + DSQ -Rodol Duplex",
         "location": "Parklands",
-        "price": "3500000",
+        "price": "",
         "bedrooms": 3,
         "status": "Construction ongoing",
         "image": "img/nova/rodolduplex.jpg",
@@ -542,7 +625,7 @@
             "lot_area": "151 sqm",
             "lot_dimensions": "NA",
             "bedrooms": "3",
-            "price": "3,500,000 KES",
+            "price": "",
             "property_status": "Apartment"
         },
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","Solar panels",  "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
@@ -550,6 +633,9 @@
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.853761154427!2d36.81533337568971!3d-1.259894735599347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f171bdc9d83cd%3A0xd05be9b70fee453f!2s3rd%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1742978864345!5m2!1sen!2ske" ,
         "video": "https://youtu.be/Tf6Y1hiX2Mg",
         "video_bg":"img/nova/rodolduplex.jpg",
+        "gallery": [
+            "img/nova/nova3payment.png"
+        ],
 
         "slider_images": [
             "img/nova/rodoldup5.png",
@@ -559,10 +645,10 @@
         ]
     },
     {
-        "id": "16",
+        "id": "17",
         "title": "3 Bedroom  Royal Residency -Rodol 4th Street",
         "location": "Eastleigh",
-        "price": "3500000",
+        "price": "",
         "bedrooms": 3,
         "status": "Construction ongoing",
         "image": "img/nova/rodol4th.png",
@@ -580,7 +666,7 @@
             "lot_area": "110 sqm",
             "lot_dimensions": "NA",
             "bedrooms": "3",
-            "price": "3,500,000 KES",
+            "price": "",
             "property_status": "Apartment"
         },
         "amenities": ["Dedicated prayer room","Kids play area","Ample parking","Solar panels",  "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception", "Intercom System", "Borehole", "24x7 Security"],
@@ -588,6 +674,9 @@
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.834960236603!2d36.84712457568994!3d-1.2721147356122844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f17d4e8b5105d%3A0x4be057413fdf1b93!2z8J2XpfCdl6LwnZeX8J2XovCdl58g8J2fsPCdl6fwnZebIPCdl6bwnZen8J2XpfCdl5jwnZeY8J2Xpw!5e0!3m2!1sen!2ske!4v1743060076918!5m2!1sen!2ske" ,
         "video": "https://youtu.be/nLOBIjoxqRA",
         "video_bg":"img/nova/rodolduplex.jpg",
+        "gallery": [
+            "img/nova/nova3payment.png"
+        ],
 
         "slider_images": [
             "img/nova/rod44.png",
@@ -597,10 +686,10 @@
         ]
     },
     {
-        "id": "17",
+        "id": "18",
         "title": "2 Bedroom  Royal Residency -Rodol 4th Street",
         "location": "Eastleigh",
-        "price": "3500000",
+        "price": "",
         "bedrooms": 2,
         "status": "Construction ongoing",
         "image": "img/nova/rodol4th.png",
@@ -618,7 +707,7 @@
             "lot_area": "85 sqm",
             "lot_dimensions": "NA",
             "bedrooms": "3",
-            "price": "3,500,000 KES",
+            "price": "",
             "property_status": "Apartment"
         },
         "amenities": ["Dedicated prayer room","Ample parking",  "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception",  "Borehole", "24x7 Security"],
@@ -626,6 +715,9 @@
         "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.834960236603!2d36.84712457568994!3d-1.2721147356122844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f17d4e8b5105d%3A0x4be057413fdf1b93!2z8J2XpfCdl6LwnZeX8J2XovCdl58g8J2fsPCdl6fwnZebIPCdl6bwnZen8J2XpfCdl5jwnZeY8J2Xpw!5e0!3m2!1sen!2ske!4v1743060076918!5m2!1sen!2ske" ,
         "video": "https://youtu.be/nLOBIjoxqRA",
         "video_bg":"img/nova/rodolduplex.jpg",
+        "gallery": [
+            "img/nova/nova3payment.png"
+        ],
 
         "slider_images": [
             "img/nova/rod44.png",
@@ -635,43 +727,294 @@
         ]
     },
     
+   
     {
-        "id": "18",
-        "title": "4 bedroom apartments + DSQ -Kingswood Apartments",
+        "id": "19",
+        "title": "5 bedroom duplex apartment + DSQ -Rodol Highridge",
         "location": "Parklands",
-        "price": "3500000",
+        "price": "",
+        "bedrooms": 5,
+        "status": "Construction ongoing",
+        "image": "img/nova/rodolhighride6th.png",
+        "houseType": "Apartment",
+
+        "category": "For Rent",
+        "date": "May 8, 2024",
+        "description": "A luxurious 5-bedroom Apartment +DSQ in the serene and prestigious Rodol Highridge  in Parklands 6th Avenue",
+        "features": {
+            "property_id": " 32163",
+            "home_area": "290 sqm",
+            "rooms": 5,
+            "baths": 5,
+            "year_built": 2024,
+            "lot_area": "290 sqm",
+            "lot_dimensions": "NA",
+            "bedrooms": "5",
+            "price": "",
+            "property_status": "Apartment"
+        },
+        "amenities": ["Dedicated prayer room","Ample parking", "Gym","Kids play area","Swimming Pool", "Solar panels","Intercom System", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception",  "Borehole", "24x7 Security"],
+        
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.859909766545!2d36.821073775689726!3d-1.2558725355951272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1702c9d1b8f5%3A0x685d9413d0bbbf1e!2sMwambao%20Rd%20%26%20Sixth%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1743512347361!5m2!1sen!2ske" ,
+        "video": "https://www.youtube.com/embed/8Fz3A8U_M-4?si=iQn6LDuqTbgV8j9C",
+        "video_bg":"img/nova/rodolhighridge6.png",
+        "gallery": [
+            "img/nova/rodolhighridgepayment.png"
+        ],
+
+        "slider_images": [
+            "img/nova/rodolhighridge1.png",
+            "img/nova/rodolhighridge2.png",
+            "img/nova/rodolhighridge3.png",
+            "img/nova/rodolhighridge6.png"
+        ]
+    },
+    {
+        "id": "20",
+        "title": "3 bedroom apartment  + DSQ -Rodol Highridge",
+        "location": "Parklands",
+        "price": "",
+        "bedrooms": 3,
+        "status": "Construction ongoing",
+        "image": "img/nova/rodolhighride6th.png",
+        "houseType": "Apartment",
+
+        "category": "For Rent",
+        "date": "May 8, 2024",
+        "description": "A luxurious 3-bedroom Apartment +DSQ in the serene and prestigious Rodol Highridge  in Parklands 6th Avenue",
+        "features": {
+            "property_id": " 32163",
+            "home_area": "163 sqm",
+            "rooms": 3,
+            "baths": 3,
+            "year_built": 2024,
+            "lot_area": "163 sqm",
+            "lot_dimensions": "NA",
+            "bedrooms": "3",
+            "price": "",
+            "property_status": "Apartment"
+        },
+        "amenities": ["Dedicated prayer room","Ample parking", "Gym","Kids play area","Swimming Pool", "Solar panels","Intercom System", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception",  "Borehole", "24x7 Security"],
+        
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.859909766545!2d36.821073775689726!3d-1.2558725355951272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1702c9d1b8f5%3A0x685d9413d0bbbf1e!2sMwambao%20Rd%20%26%20Sixth%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1743512347361!5m2!1sen!2ske" ,
+        "video": "https://www.youtube.com/embed/8Fz3A8U_M-4?si=iQn6LDuqTbgV8j9C",
+        "video_bg":"img/nova/rodolhighridge6.png",
+        "gallery": [
+            "img/nova/rodolhighridgepayment.png"
+        ],
+
+        "slider_images": [
+            "img/nova/rodolhighridge1.png",
+            "img/nova/rodolhighridge2.png",
+            "img/nova/rodolhighridge5.png",
+            "img/nova/rodolhighridge6.png"
+        ]
+    },
+    {
+        "id": "21",
+        "title": "2 bedroom apartment  + DSQ -Rodol Highridge",
+        "location": "Parklands",
+        "price": "",
         "bedrooms": 2,
         "status": "Construction ongoing",
-        "image": "img/nova/rodol4th.png",
+        "image": "img/nova/rodolhighride6th.png",
+        "houseType": "Apartment",
+
+        "category": "For Rent",
+        "date": "May 8, 2024",
+        "description": "A luxurious 2-bedroom Apartment +DSQ in the serene and prestigious Rodol Highridge  in Parklands 6th Avenue",
+        "features": {
+            "property_id": " 32163",
+            "home_area": "127 sqm",
+            "rooms": 2,
+            "baths": 2,
+            "year_built": 2024,
+            "lot_area": "127 sqm",
+            "lot_dimensions": "NA",
+            "bedrooms": "2",
+            "price": "",
+            "property_status": "Apartment"
+        },
+        "amenities": ["Dedicated prayer room","Ample parking", "Gym","Kids play area","Swimming Pool", "Solar panels","Intercom System", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception",  "Borehole", "24x7 Security"],
+        
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.859909766545!2d36.821073775689726!3d-1.2558725355951272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1702c9d1b8f5%3A0x685d9413d0bbbf1e!2sMwambao%20Rd%20%26%20Sixth%20Parklands%20Ave%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1743512347361!5m2!1sen!2ske" ,
+        "video": "https://www.youtube.com/embed/8Fz3A8U_M-4?si=iQn6LDuqTbgV8j9C",
+        "video_bg":"img/nova/rodolhighridge6.png",
+        "gallery": [
+            "img/nova/rodolhighridgepayment.png"
+        ],
+
+        "slider_images": [
+            "img/nova/rodolhighridge1.png",
+            "img/nova/rodolhighridge2.png",
+            "img/nova/rodolhighridge3.png",
+            "img/nova/rodolhighridge6.png"
+        ]
+    },
+    {
+        "id": "22",
+        "title": "5 bedroom duplex  + DSQ -Rodol Lenana Heights 2 ",
+        "location": "Kilimani",
+        "price": "",
+        "bedrooms": 5,
+        "status": "Completed",
+        "image": "img/lenanarodol/lenanarodol.png",
+        "houseType": "Duplex",
+
+        "category": "For Rent",
+        "date": "January 30, 2025",
+        "description": "A luxurious 5-bedroom Duplex + DSQ in the serene and prestigious Rodol Lenana Heights 2  in Kilimani Lenana Rd.",
+        "features": {
+            "property_id": " 32684",
+            "home_area": "319 sqm",
+            "rooms": 5,
+            "baths": 5,
+            "year_built": 2025,
+            "lot_area": "319 sqm",
+            "lot_dimensions": "NA",
+            "bedrooms": "5",
+            "price": "",
+            "property_status": "Duplex"
+        },
+        "amenities": ["Dedicated prayer room","Ample parking", "Gym","Kids play area","Swimming Pool", "Solar panels","Intercom System", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception",  "Borehole", "24x7 Security"],
+        
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8090547010497!2d36.791776575690065!3d-1.2887627356303286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f2f0009e7823b%3A0xb1eb2fae2db9d791!2z8J2QkfCdkI7wnZCD8J2QjvCdkIsg8J2Qi_CdkITwnZCN8J2QgPCdkI3wnZCAIPCdn5A!5e0!3m2!1sen!2ske!4v1743601141705!5m2!1sen!2ske" ,
+        "video": "https://www.youtube.com/embed/SAlcL5PAq8E?si=vBuTTgbQBGlNMVb6",
+        "video_bg":"img/lenanarodol/lenanarodol.png",
+        "gallery": [
+            "img/lenanarodol/lenanapayment.png"
+        ],
+
+        "slider_images": [
+            "img/lenanarodol/lenana1.png",
+            "img/lenanarodol/lenana2.png",
+            "img/lenanarodol/lenana4.png",
+            "img/lenanarodol/lenana5.png"
+        ]
+    },
+    {
+        "id": "23",
+        "title": "3 bedroom apartment  + DSQ -Rodol Lenana Heights 2 ",
+        "location": "Kilimani",
+        "price": "",
+        "bedrooms": 3,
+        "status": "Completed",
+        "image": "img/lenanarodol/lenanarodol.png",
+        "houseType": "Apartment",
+
+        "category": "For Rent",
+        "date": "January 30, 2025",
+        "description": "A luxurious 3-bedroom Apartment + DSQ in the serene and prestigious Rodol Lenana Heights 2  in Kilimani Lenana Rd.",
+        "features": {
+            "property_id": " 32684",
+            "home_area": "170 sqm",
+            "rooms": 3,
+            "baths": 3,
+            "year_built": 2025,
+            "lot_area": "170 sqm",
+            "lot_dimensions": "NA",
+            "bedrooms": "3",
+            "price": "",
+            "property_status": "Apartment"
+        },
+        "amenities": ["Dedicated prayer room","Ample parking", "Gym","Kids play area","Swimming Pool", "Solar panels","Intercom System", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception",  "Borehole", "24x7 Security"],
+        
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8090547010497!2d36.791776575690065!3d-1.2887627356303286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f2f0009e7823b%3A0xb1eb2fae2db9d791!2z8J2QkfCdkI7wnZCD8J2QjvCdkIsg8J2Qi_CdkITwnZCN8J2QgPCdkI3wnZCAIPCdn5A!5e0!3m2!1sen!2ske!4v1743601141705!5m2!1sen!2ske" ,
+        "video": "https://www.youtube.com/embed/SAlcL5PAq8E?si=vBuTTgbQBGlNMVb6",
+        "video_bg":"img/lenanarodol/lenanarodol.png",
+        "gallery": [
+            "img/lenanarodol/lenanapayment.png"
+        ],
+
+        "slider_images": [
+            "img/lenanarodol/lenana3.png",
+            "img/lenanarodol/lenana2.png",
+            "img/lenanarodol/lenana4.png",
+            "img/lenanarodol/lenana5.png"
+        ]
+    },
+    {
+        "id": "24",
+        "title": "1 bedroom apartment  -Rodol Woodview",
+        "location": "Kilimani",
+        "price": "",
+        "bedrooms": 1,
+        "status": "Construction ongoing",
+        "image": "img/woodview/image.png",
         "houseType": "Apartment",
 
         "category": "For Rent",
         "date": "May 16, 2024",
-        "description": "A luxurious 2-bedroom Royal Residency Apartment  in the serene and prestigious Rodol  in Eastleigh 4th street.",
+        "description": "A luxurious 1-bedroom Apartment in the serene and prestigious Rodol Woodview Kilimani, Woodview Avenue.",
         "features": {
-            "property_id": " 31519",
-            "home_area": "85 sqm",
-            "rooms": 2,
-            "baths": 2,
-            "year_built": 2023,
-            "lot_area": "85 sqm",
+            "property_id": "32406",
+            "home_area": "90 sqm",
+            "rooms": 1,
+            "baths": 1,
+            "year_built": 2025,
+            "lot_area": "90 sqm",
             "lot_dimensions": "NA",
-            "bedrooms": "3",
-            "price": "3,500,000 KES",
+            "bedrooms": "1",
+            "price": "",
             "property_status": "Apartment"
         },
-        "amenities": ["Dedicated prayer room","Ample parking",  "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception",  "Borehole", "24x7 Security"],
+        "amenities": ["Dedicated prayer room","Ample parking", "Gym","Kids play area","Swimming Pool", "Solar panels","Intercom System", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception",  "Borehole", "24x7 Security"],
         
-        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.834960236603!2d36.84712457568994!3d-1.2721147356122844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f17d4e8b5105d%3A0x4be057413fdf1b93!2z8J2XpfCdl6LwnZeX8J2XovCdl58g8J2fsPCdl6fwnZebIPCdl6bwnZen8J2XpfCdl5jwnZeY8J2Xpw!5e0!3m2!1sen!2ske!4v1743060076918!5m2!1sen!2ske" ,
-        "video": "https://youtu.be/nLOBIjoxqRA",
-        "video_bg":"img/nova/rodolduplex.jpg",
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8033041067774!2d36.78103938365684!3d-1.2924292322505864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f119588d9e8d9%3A0x195c65c61cddcf2!2z8J2QkfCdkI7wnZCD8J2QjvCdkIsg8J2QlvCdkI7wnZCO8J2Qg_CdkJXwnZCI8J2QhPCdkJY!5e0!3m2!1sen!2ske!4v1743603362599!5m2!1sen!2ske" ,
+        "video": "https://www.youtube.com/embed/rsyPXelrM_Y?si=oyJJda3hxqhmkPk7",
+        "video_bg":"img/woodview/image.png",
+        "gallery": [
+            "img/woodview/woodviewpayment.png"
+        ],
 
         "slider_images": [
-            "img/nova/rod44.png",
-            "img/nova/rodol4thstreet.png",
-            "img/nova/rodl4.png",
-            "img/nova/rodoleast.png"
+            "img/woodview/wood.png",
+            "img/woodview/woodview1.png",
+            "img/woodview/woodview2.png",
+            "img/woodview/woodview3.png"
+        ]
+    },
+    {
+        "id": "25",
+        "title": "2 bedroom apartment  -Rodol Woodview",
+        "location": "Kilimani",
+        "price": "",
+        "bedrooms": 2,
+        "status": "Construction ongoing",
+        "image": "img/woodview/image.png",
+        "houseType": "Apartment",
+
+        "category": "For Rent",
+        "date": "May 16, 2024",
+        "description": "A luxurious 2-bedroom Apartment in the serene and prestigious Rodol Woodview Kilimani, Woodview Avenue.",
+        "features": {
+            "property_id": "32406",
+            "home_area": "120 sqm",
+            "rooms": 2,
+            "baths": 2,
+            "year_built": 2025,
+            "lot_area": "120 sqm",
+            "lot_dimensions": "NA",
+            "bedrooms": "2",
+            "price": "",
+            "property_status": "Apartment"
+        },
+        "amenities": ["Dedicated prayer room","Ample parking", "Gym","Kids play area","Swimming Pool", "Solar panels","Intercom System", "High Speed Lifts", "Full Backup Generator", "Lobby Lounge And Reception",  "Borehole", "24x7 Security"],
+        
+        "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8033041067774!2d36.78103938365684!3d-1.2924292322505864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f119588d9e8d9%3A0x195c65c61cddcf2!2z8J2QkfCdkI7wnZCD8J2QjvCdkIsg8J2QlvCdkI7wnZCO8J2Qg_CdkJXwnZCI8J2QhPCdkJY!5e0!3m2!1sen!2ske!4v1743603362599!5m2!1sen!2ske" ,
+        "video": "https://www.youtube.com/embed/rsyPXelrM_Y?si=oyJJda3hxqhmkPk7",
+        "video_bg":"img/woodview/image.png",
+        "gallery": [
+            "img/woodview/woodviewpayment.png"
+        ],
+
+        "slider_images": [
+            "img/woodview/wood.png",
+            "img/woodview/woodview1.png",
+            "img/woodview/woodview4.png",
+            "img/woodview/woodview3.png"
         ]
     }
+    
     
 ]
